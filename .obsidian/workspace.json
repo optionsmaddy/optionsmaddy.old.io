@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "441f8f4c79706342",
+        "id": "2bc21a3ec4f5271e",
         "type": "tabs",
         "children": [
           {
-            "id": "5bb57383d433b815",
+            "id": "ab4f0abd3785a674",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -137,8 +137,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "5bb57383d433b815",
+  "active": "ab4f0abd3785a674",
   "lastOpenFiles": [
+    "content/posts/newfikle.md",
     "content/posts/objective-of-this-project.md",
     "content/posts/What was a volatile day.md",
     "content/posts/A Volatile Day.md",
