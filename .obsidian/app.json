@@ -1,7 +1,7 @@
 {
   "newFileLocation": "folder",
   "newFileFolderPath": "content/posts",
-  "attachmentFolderPath": "static/uploads",
+  "attachmentFolderPath": "static/upload",
   "useMarkdownLinks": true,
   "promptDelete": false
 }
