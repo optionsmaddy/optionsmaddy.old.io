@@ -18,9 +18,9 @@ favicon = "favicon/favicon.ico"
 doNotLoadAnimations = false
 reversepagetitle = true 
 enableMediumZoom = true
-singleDateFormat = "Mon, Apr 10, 2023"
-indexDateFormat = "Mon, Apr 10, 2023"
-listDateFormat = "Apr 10"
+singleDateFormat = "Mon, Jan 2, 2006"
+indexDateFormat = "Mon, Jan 2, 2006"
+listDateFormat = "Jan 2"
 readMore = true
 disqusShortname = 'optionsmaddy'
 
@@ -135,3 +135,10 @@ pygmentsCodefencesGuessSyntax = true
   weight = 600
   identifier = "contact"
   url = "/contact/"
+
+  [module]
+  # uncomment line below for temporary local development of module
+  # replacements = "github.com/lxndrblz/anatole -> ../../anatole"
+  [[module.imports]]
+    path = "github.com/lxndrblz/anatole"
+    disable = false
