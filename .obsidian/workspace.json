@@ -16,18 +16,6 @@
             }
           },
           {
-            "id": "419074448dab4bb5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/posts/A Volatile Day.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "63d7bd83466ad436",
             "type": "leaf",
             "state": {
@@ -38,21 +26,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "abaa7a58a0154bf5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/posts/What was a volatile day.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -178,7 +154,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "63d7bd83466ad436",
+  "active": "752ebf2089807085",
   "lastOpenFiles": [
     "content/posts/What was a volatile day.md",
     "content/posts/A Volatile Day.md",
