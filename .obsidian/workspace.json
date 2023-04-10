@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/newfikle.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6299b8338b33ee65",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/posts/Change Github Action.md",
+                "file": "content/posts/A Volatile Day.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/Change Github Action.md",
+                "file": "content/posts/A Volatile Day.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/Change Github Action.md",
+                "file": "content/posts/A Volatile Day.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/Change Github Action.md"
+                "file": "content/posts/A Volatile Day.md"
               }
             }
           }
@@ -158,14 +145,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "6299b8338b33ee65",
+  "active": "ab4f0abd3785a674",
   "lastOpenFiles": [
-    "content/posts/newfikle.md",
-    "content/posts/Change Github Action.md",
     "content/posts/hi-i-m-maddy.md",
-    "content/posts/objective-of-this-project.md",
-    "content/posts/What was a volatile day.md",
     "content/posts/A Volatile Day.md",
+    "content/posts/newfikle.md",
+    "content/posts/What was a volatile day.md",
+    "content/posts/Change Github Action.md",
+    "content/posts/objective-of-this-project.md",
     "static/upload",
     "10-04 Monday 00.png",
     "content/posts/helloworld-10apr.md"
