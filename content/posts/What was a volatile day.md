@@ -11,9 +11,9 @@ categories:
 - uncategorized
 draft: false
 ---
-[A Volatile Day](<A%20Volatile%20Day.md>) with carrots
-[A Volatile Day](A%20Volatile%20Day.md)
-[A Volatile Day](what-was-a-volatile-day)
-[A Volatile Day](what-was-a-volatile-day.md)
+- [A Volatile Day](<A%20Volatile%20Day.md>) with carrots
+- [A Volatile Day](A%20Volatile%20Day.md)
+- [A Volatile Day](what-was-a-volatile-day)
+- [A Volatile Day](what-was-a-volatile-day.md)
 
 
