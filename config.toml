@@ -9,7 +9,7 @@ description = """ ⚖️ Trading Options 🤹
 Motto : Consistency, Patience & Discipline.
 """
 
-profilePicture = "images/profilepic.jpg"
+profilePicture = "images/logo2.png"
 mainSections = ["posts"]
 #fullPostContent = true
 keywords = "trading-options"
