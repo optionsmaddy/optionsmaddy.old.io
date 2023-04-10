@@ -1,6 +1,6 @@
 baseURL = ''
 languageCode = 'en-us'
-title = 'OptionsMaddy'
+title = 'OptionsMaddy Website'
 
 [params]
 title = "OptionsMaddy"
