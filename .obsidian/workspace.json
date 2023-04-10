@@ -40,7 +40,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/What was a volatile day.md",
+                "file": "content/posts/A Volatile Day.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/What was a volatile day.md",
+                "file": "content/posts/A Volatile Day.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/What was a volatile day.md"
+                "file": "content/posts/A Volatile Day.md"
               }
             }
           }
@@ -166,10 +166,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "abaa7a58a0154bf5",
+  "active": "419074448dab4bb5",
   "lastOpenFiles": [
-    "content/posts/A Volatile Day.md",
     "content/posts/What was a volatile day.md",
+    "content/posts/A Volatile Day.md",
     "static/upload",
     "10-04 Monday 00.png",
     "content/posts/hi-i-m-maddy.md",
