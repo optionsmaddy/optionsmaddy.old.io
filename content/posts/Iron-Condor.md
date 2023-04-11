@@ -1,15 +1,3 @@
----
-author: maddy
-date: 2023-04-10T20:10:23+05:30
-lastmod: 2023-04-10T20:11:43+05:30
-title: Iron-Condor
-description: 
-tags:
-- untagged
-categories: 
-- uncategorized
-draft: false
----
 # Iron Condor 🦅
 
 - "Cheap", "Risk Capped", "Safe Neutral Strategy" for either Range bound market or Volatile market.
