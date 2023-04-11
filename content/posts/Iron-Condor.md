@@ -9,7 +9,7 @@ tags:
 categories: 
 - uncategorized
 draft: false
-disableComments: false
+comments: true
 ---
 # Iron Condor 🦅
 
