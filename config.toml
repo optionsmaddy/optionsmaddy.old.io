@@ -24,7 +24,7 @@ singleDateFormat = "Mon, Jan 2, 2006"
 indexDateFormat = "Mon, Jan 2, 2006"
 listDateFormat = "Jan 2"
 readMore = true
-#disqusShortname = "optionsmaddy"
+disqusShortname = "optionsmaddy"
 
 contactFormAction = "https://formspree.io/f/xyyabgnb"
 
@@ -145,8 +145,8 @@ pygmentsCodefencesGuessSyntax = true
     path = "github.com/lxndrblz/anatole"
     disable = false
 
-[params.utterances]
-repo = "optionsmaddy/optionsmaddy.github.io"
-issueTerm = "pathname"
-theme= "preferred-color-scheme"
+# [params.utterances]
+# repo = "optionsmaddy/optionsmaddy.github.io"
+# issueTerm = "pathname"
+# theme= "preferred-color-scheme"
 # label =
