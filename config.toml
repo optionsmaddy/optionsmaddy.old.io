@@ -8,13 +8,13 @@ author = "Maddy"
 description = """ ⚖️ Trading Options 🤹
 Motto : Consistency, Patience & Discipline.
 """
-
+#displayMode = "light"
 profilePicture = "images/logo2.png"
 mainSections = ["posts"]
 #fullPostContent = true
 keywords = "trading-options"
 favicon = "favicon/favicon.ico"
-displayMode = "light"
+
 doNotLoadAnimations = false
 reversepagetitle = true 
 enableMediumZoom = true
@@ -24,7 +24,7 @@ singleDateFormat = "Mon, Jan 2, 2006"
 indexDateFormat = "Mon, Jan 2, 2006"
 listDateFormat = "Jan 2"
 readMore = true
-disqusShortname = 'optionsmaddy'
+disqusShortname = "optionsmaddy"
 
 contactFormAction = "https://formspree.io/f/xyyabgnb"
 
