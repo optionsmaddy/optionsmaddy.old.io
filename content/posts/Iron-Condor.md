@@ -5,7 +5,7 @@ lastmod: 2023-04-11T20:40:08+05:30
 title: Iron-Condor
 description: 
 tags:
-- untagged
+- strategy⚔️
 categories: 
 - uncategorized
 draft: false
