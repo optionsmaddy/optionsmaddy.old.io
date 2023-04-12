@@ -10,7 +10,8 @@ Motto : Consistency, Patience & Discipline.
 """
 profilePicture = "images/logo2.png"
 mainSections = ["posts"]
-disqusShortname = 'optionsmaddy'
+disqusShortname = "optionsmaddy"
+comments = "true"
 contentratio = 0.75
 
 [menu]
