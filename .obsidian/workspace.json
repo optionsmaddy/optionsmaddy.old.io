@@ -147,6 +147,9 @@
   },
   "active": "c89051e6e62899d0",
   "lastOpenFiles": [
+    "config.toml",
+    "config2 copy.toml",
+    "config2.toml",
     "content/contact.md",
     "content/about.md",
     "content/posts/Bandi-Shreyas-Traders-Carnival.md",
@@ -172,7 +175,6 @@
     "content/posts/Options-Strategies-List.md",
     "content/posts/Options-Strategies-Cheat-Sheets.md",
     "content/posts/Options-Graphics.md",
-    "content/posts/Options-Book-GDrive.md",
     "static/upload",
     "10-04 Monday 00.png"
   ]
