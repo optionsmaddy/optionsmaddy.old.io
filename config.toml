@@ -25,7 +25,7 @@ summarylength = 300
 enableEmoji = true
 enableRobotsTXT = true
 localizedDates = true
-relatedPosts = true
+relatedPosts = false
 numberOfRelatedPosts = 3
 
 contactFormAction = "https://formspree.io/f/xyyabgnb"
