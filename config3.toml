@@ -1,0 +1,54 @@
+baseURL = 'https://optionsmaddy.github.io/'
+languageCode = 'en-us'
+title = 'OptionsMaddy'
+disqusShortname = "optionsmaddy"
+
+[params]
+title = "OptionsMaddy"
+author = "Maddy"
+description = """ ⚖️ Trading Options 🤹
+Motto : Consistency, Patience & Discipline.
+"""
+profilePicture = "images/logo2.png"
+mainSections = ["posts"]
+comments = "true"
+contentratio = 0.75
+
+[menu]
+
+  [[menu.main]]
+  name = "Home"
+  identifier = "home"
+  weight = 100
+  url = "/"
+
+  [[menu.main]]
+  name = "Posts"
+  weight = 200
+  identifier = "posts"
+  url = "/posts/"
+
+  [[menu.main]]
+  name = "Tags"
+  weight = 300
+  identifier = "tags"
+  url = "/tags/"
+
+  [[menu.main]]
+  name = "About"
+  weight = 500
+  identifier = "about"
+  url = "/about/"
+
+  [[menu.main]]
+  name = "Contact"
+  weight = 600
+  identifier = "contact"
+  url = "/contact/"
+
+  [module]
+  # uncomment line below for temporary local development of module
+  # replacements = "github.com/lxndrblz/anatole -> ../../anatole"
+  [[module.imports]]
+    path = "github.com/lxndrblz/anatole"
+    disable = false

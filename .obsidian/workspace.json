@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/hi-i-m-maddy.md",
+                "file": "content/posts/objective-of-this-project.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/hi-i-m-maddy.md",
+                "file": "content/posts/objective-of-this-project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/hi-i-m-maddy.md",
+                "file": "content/posts/objective-of-this-project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/hi-i-m-maddy.md"
+                "file": "content/posts/objective-of-this-project.md"
               }
             }
           }
@@ -147,8 +147,8 @@
   },
   "active": "c89051e6e62899d0",
   "lastOpenFiles": [
-    "content/posts/objective-of-this-project.md",
     "content/posts/hi-i-m-maddy.md",
+    "content/posts/objective-of-this-project.md",
     "config.toml",
     "config2 copy.toml",
     "config2.toml",

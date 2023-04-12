@@ -2,6 +2,8 @@ baseURL = 'https://optionsmaddy.github.io/'
 languageCode = 'en-us'
 title = 'OptionsMaddy'
 
+disqusShortname = "optionsmaddy"
+
 [params]
 title = "OptionsMaddy"
 author = "Maddy"
@@ -10,9 +12,82 @@ Motto : Consistency, Patience & Discipline.
 """
 profilePicture = "images/logo2.png"
 mainSections = ["posts"]
-disqusShortname = "optionsmaddy"
-comments = "true"
+keywords = "trading-options"
+favicon = "favicon/favicon.ico"
+doNotLoadAnimations = false
+reversepagetitle = true 
+enableMediumZoom = true
 contentratio = 0.75
+singleDateFormat = "Mon, Jan 2, 2006"
+indexDateFormat = "Mon, Jan 2, 2006"
+listDateFormat = "Jan 2"
+readMore = true
+summarylength = 300
+enableEmoji = true
+enableRobotsTXT = true
+localizedDates = true
+relatedPosts = true
+numberOfRelatedPosts = 3
+
+contactFormAction = "https://formspree.io/f/xyyabgnb"
+
+#fullPostContent = true
+#hidesidebar = true
+#displayMode = "light"
+
+[[params.socialIcons]]
+icon = "fab fa-twitter"
+title = "Twitter"
+url = "https://www.twitter.com/optionsmaddy"
+
+[[params.socialIcons]]
+icon = "fab fa-youtube"
+title = "twitter"
+url = "https://www.youtube.com/@optionsmaddy"
+
+[[params.socialIcons]]
+icon = "fas fa-envelope"
+title = "Email"
+url = "mailto:optionsmaddy@gmail.com"
+
+#[[params.socialIcons]]
+#con = "fas fa-check-to-slot"
+#title = "sensibull"
+#url = "https://web.sensibull.com/verified-pnl/oldfashioned-lime"
+
+[[params.socialIcons]]
+#icon = "fa-solid fa-envelope-open-text"
+icon = "fa-solid fa-bell"
+title = "Substack"
+url = "https://substack.com/"
+
+[taxonomies]
+    category = "categories"
+    series = "series"
+    tag = "tags"
+
+[markup]
+    [markup.goldmark]
+        [markup.goldmark.renderer]
+        unsafe=true
+
+# Syntax highlighting
+pygmentsUseClasses = true   
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+
+[related]
+  includeNewer = true
+  threshold = 80
+  toLower = true
+[[related.indices]]
+  name = 'keywords'
+  weight = 100
+[[related.indices]]
+  name = 'tags'
+  weight = 80
+
+
 
 [menu]
 
@@ -34,6 +109,21 @@ contentratio = 0.75
   identifier = "tags"
   url = "/tags/"
 
+
+  #[[menu.main]]
+  #name = "🗂️Categories"
+  #weight = 320
+  #identifier = "categories"
+  #url = "/categories/"
+  #parent = "find"
+
+
+  #[[menu.main]]
+  #name = "💥Portfolio"
+  #weight = 400
+  #identifier = "portfolio"
+  #url = "/portfolio/"
+
   [[menu.main]]
   name = "About"
   weight = 500
@@ -52,3 +142,9 @@ contentratio = 0.75
   [[module.imports]]
     path = "github.com/lxndrblz/anatole"
     disable = false
+
+ #[params.utterances]
+ #repo="optionsmaddy/optionsmaddy.github.io"
+ #issueTerm="pathname"
+ #theme="github-light"
+ #label="utterences"
