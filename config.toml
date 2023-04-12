@@ -1,7 +1,6 @@
 baseURL = 'https://optionsmaddy.github.io/'
 languageCode = 'en-us'
 title = 'OptionsMaddy'
-
 disqusShortname = "optionsmaddy"
 
 [params]
@@ -49,11 +48,6 @@ url = "https://www.youtube.com/@optionsmaddy"
 icon = "fas fa-envelope"
 title = "Email"
 url = "mailto:optionsmaddy@gmail.com"
-
-#[[params.socialIcons]]
-#con = "fas fa-check-to-slot"
-#title = "sensibull"
-#url = "https://web.sensibull.com/verified-pnl/oldfashioned-lime"
 
 [[params.socialIcons]]
 #icon = "fa-solid fa-envelope-open-text"
@@ -116,7 +110,6 @@ pygmentsCodefencesGuessSyntax = true
   #identifier = "categories"
   #url = "/categories/"
   #parent = "find"
-
 
   #[[menu.main]]
   #name = "💥Portfolio"
