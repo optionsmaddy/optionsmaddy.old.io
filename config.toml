@@ -8,8 +8,10 @@ author = "Maddy"
 description = """ ⚖️ Trading Options 🤹
 Motto : Consistency, Patience & Discipline.
 """
-
-disqusShortname = "optionsmaddy"
+profilePicture = "images/logo2.png"
+mainSections = ["posts"]
+disqusShortname = "abdla"
+contentratio = 0.75
 
 [menu]
 
