@@ -1,12 +1,7 @@
 baseURL = 'https://optionsmaddy.github.io/'
 languageCode = 'en-us'
 title = 'OptionsMaddy'
-
-[params.utterances]
- repo="optionsmaddy/optionsmaddy.github.io"
- issueTerm="pathname"
- theme="github-light"
- label="utterences"
+disqusShortname = "optionsmaddy"
 
 [params]
 title = "OptionsMaddy"
@@ -30,7 +25,7 @@ summarylength = 300
 enableEmoji = true
 enableRobotsTXT = true
 localizedDates = true
-relatedPosts = true
+relatedPosts = false
 numberOfRelatedPosts = 3
 
 contactFormAction = "https://formspree.io/f/xyyabgnb"
@@ -141,3 +136,8 @@ pygmentsCodefencesGuessSyntax = true
     path = "github.com/lxndrblz/anatole"
     disable = false
 
+ #[params.utterances]
+ #repo="optionsmaddy/optionsmaddy.github.io"
+ #issueTerm="pathname"
+ #theme="github-light"
+ #label="utterences"
