@@ -12,6 +12,7 @@ Motto : Consistency, Patience & Discipline.
 profilePicture = "images/logo2.png"
 mainSections = ["post"]
 gtagId = "G-4B0KQ8RWDQ"
+enableRobotsTXT = true
 keywords = "trading-options"
 favicon = "favicon/favicon.ico"
 doNotLoadAnimations = false
@@ -93,10 +94,10 @@ pygmentsCodefencesGuessSyntax = true
   url = "/"
 
   [[menu.main]]
-  name = "Posts"
+  name = "Post"
   weight = 200
-  identifier = "posts"
-  url = "/posts/"
+  identifier = "post"
+  url = "/post/"
 
   [[menu.main]]
   name = "Tags"
