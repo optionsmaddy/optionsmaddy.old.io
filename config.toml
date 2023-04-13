@@ -1,13 +1,7 @@
 baseURL = 'https://optionsmaddy.github.io/'
 languageCode = 'en-us'
 title = 'OptionsMaddy'
-#disqusShortname = 'optionsmaddy'
-
- [params.utterances]
- repo="optionsmaddy/optionsmaddy.github.io"
- issueTerm="pathname"
- theme="github-light"
- label="utterences"
+disqusShortname = 'optionsmaddy'
 
 [params]
 title = "OptionsMaddy"
