@@ -28,7 +28,8 @@ enableEmoji = true
 localizedDates = true
 relatedPosts = false
 numberOfRelatedPosts = 3
-
+contactFormReCaptcha = "6Lc-VoUlAAAAAH9oCf5GGtKsICLjyucEJmY-biNP"
+googleFonts = ["Indie+Flower", "Roboto:ital,wght@0,100;0,400;0,700;1,400"]
 contactFormAction = "https://formspree.io/f/xyyabgnb"
 
 #fullPostContent = true
