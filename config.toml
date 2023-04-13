@@ -25,7 +25,6 @@ listDateFormat = "Jan 2"
 readMore = true
 summarylength = 300
 enableEmoji = true
-enableRobotsTXT = true
 localizedDates = true
 relatedPosts = false
 numberOfRelatedPosts = 3
