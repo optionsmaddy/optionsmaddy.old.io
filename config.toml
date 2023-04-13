@@ -3,6 +3,7 @@ languageCode = 'en-us'
 title = 'OptionsMaddy'
 disqusShortname = 'optionsmaddy'
 
+
 [params]
 title = "OptionsMaddy"
 author = "Maddy"
@@ -11,6 +12,7 @@ Motto : Consistency, Patience & Discipline.
 """
 profilePicture = "images/logo2.png"
 mainSections = ["post"]
+googleFonts = ["Indie+Flower", "Readex+Pro:ital,wght@0,100;0,400;0,700;1,400"]
 gtagId = "G-4B0KQ8RWDQ"
 enableRobotsTXT = true
 keywords = "trading-options"
@@ -29,7 +31,6 @@ localizedDates = true
 relatedPosts = false
 numberOfRelatedPosts = 3
 contactFormReCaptcha = "6Lc-VoUlAAAAAH9oCf5GGtKsICLjyucEJmY-biNP"
-googleFonts = ["Indie+Flower", "Roboto:ital,wght@0,100;0,400;0,700;1,400"]
 contactFormAction = "https://formspree.io/f/xyyabgnb"
 
 #fullPostContent = true
