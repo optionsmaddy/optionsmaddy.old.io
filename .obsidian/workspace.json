@@ -11,8 +11,12 @@
             "id": "c89051e6e62899d0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "content/post/testing-comments.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "5152024f418cec54",
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "content/post/testing-comments.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "content/post/testing-comments.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "content/post/testing-comments.md"
+              }
             }
           }
         ]
@@ -139,11 +147,11 @@
   },
   "active": "c89051e6e62899d0",
   "lastOpenFiles": [
-    "content/posts/objective-of-this-project.md",
-    "content/post/testing-comments.md",
-    "content/post/testing-comments-again.md",
     "content/post/hi-i-m-maddy.md",
     "content/post/objective-of-this-project.md",
+    "content/post/testing-comments-again.md",
+    "content/post/testing-comments.md",
+    "content/posts/objective-of-this-project.md",
     "content/post",
     "content/posts/hi-i-m-maddy.md",
     "config.toml",

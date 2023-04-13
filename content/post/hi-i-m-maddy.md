@@ -10,7 +10,7 @@ tags:
 categories: 
 - website
 draft: false
-comments: true
+disableComments: true
 ---
 
 Hi👋 I'm Maddy, 
