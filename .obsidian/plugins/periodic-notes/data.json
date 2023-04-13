@@ -5,7 +5,7 @@
   "daily": {
     "format": "",
     "template": "obsidian-files/Templates/_New Note .md",
-    "folder": "content/posts",
+    "folder": "content/post",
     "enabled": true
   },
   "weekly": {
