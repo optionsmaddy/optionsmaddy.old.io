@@ -5,10 +5,12 @@ lastmod: <% tp.file.last_modified_date('YYYY-MM-DDTHH:mm:ss') %>+05:30
 title: <% tp.file.title %>
 description: 
 tags:
-- untagged
+- Youtube📺
 categories: 
-- uncategorized
-draft: false
+- 🤹Options-Trading
+draft: true
+disableComments: true
+slug: <% tp.file.title %>
 ---
 
 
