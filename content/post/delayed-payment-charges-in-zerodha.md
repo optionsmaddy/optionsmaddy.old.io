@@ -12,7 +12,6 @@ categories:
 draft: false
 disableComments: false
 ---
-I asked a question in Zerodha forum regarding penalty for not maintaining 50:50 cash:non-cash collateral margin ppledge inZerodha.
 
 https://tradingqna.com/t/making-sense-of-zerodha-statement/143913
 

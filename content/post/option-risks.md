@@ -9,7 +9,7 @@ tags:
 - Risk-Management😰
 categories: 
 - 🤹Options-Trading
-draft: true
+draft: false
 disableComments: false
 ---
 # Option Risks

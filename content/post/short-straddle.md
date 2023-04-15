@@ -9,7 +9,7 @@ tags:
 - Straddle🎠 
 categories: 
 - 🤹Options-Trading
-draft: true
+draft: false
 disableComments: false
 ---
 # Short Straddle

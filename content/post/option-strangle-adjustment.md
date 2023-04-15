@@ -9,7 +9,7 @@ tags:
 - Strangle🪢
 categories: 
 - 🤹Options-Trading
-draft: true
+draft: false
 disableComments: false
 ---
 - Option Strangle Adjustment by #🧔Apna-Trader.

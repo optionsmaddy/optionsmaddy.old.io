@@ -9,7 +9,7 @@ tags:
 - Trade-Mindset🔮
 categories: 
 - 🤹Options-Trading
-draft: true
+draft: false
 disableComments: false
 ---
 - The ideal trading mindset by Tradertom

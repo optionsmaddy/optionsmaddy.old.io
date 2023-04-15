@@ -10,7 +10,7 @@ tags:
 - 🧔Abid-Sensibull 
 categories: 
 - 🤹Options-Trading
-draft: true
+draft: false
 disableComments: false
 ---
 # Option Trading Mistakes

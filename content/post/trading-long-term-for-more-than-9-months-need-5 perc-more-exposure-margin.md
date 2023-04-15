@@ -9,7 +9,7 @@ tags:
 - 🧔PRSundar 
 categories: 
 - 🤹Options-Trading
-draft: true
+draft: false
 disableComments: false
 ---
 # Trading Long Term for more than 9 months need 5% more exposure margin

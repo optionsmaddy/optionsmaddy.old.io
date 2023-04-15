@@ -9,7 +9,7 @@ tags:
 - Iron-Condor🦅
 categories: 
 - 🤹Options-Trading
-draft: true
+draft: false
 disableComments: false
 ---
 ## Criteria

@@ -9,12 +9,9 @@ tags:
 - Greeks🔰 
 categories: 
 - 🤹Options-Trading
-draft: true
+draft: false
 disableComments: false
 ---
 ![](https://i.imgur.com/8Y6RbGZ.png)
 
 ![](https://i.imgur.com/JFlOZJf.png)
-
-# PR Sundar on GAMMA 🏎️
-![[PR Sundar - Mission Options Full#19. Option Greeks 2 GAMMA 🏎️]]

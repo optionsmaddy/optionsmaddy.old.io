@@ -9,7 +9,7 @@ tags:
 - Zerodha0️⃣ 
 categories: 
 - 🤹Options-Trading
-draft: true
+draft: false
 disableComments: false
 ---
 # Zerodha Kite

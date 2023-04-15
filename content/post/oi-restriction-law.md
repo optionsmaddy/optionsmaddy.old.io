@@ -8,7 +8,7 @@ tags:
 - #NSE🏴
 categories: 
 - 🤹Options-Trading
-draft: true
+draft: false
 disableComments: false
 ---
 - Total OTM you can buy should be equal to the Total options sold.

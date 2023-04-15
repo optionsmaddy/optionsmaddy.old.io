@@ -10,7 +10,7 @@ tags:
 - Basics🔤 
 categories: 
 - 🤹Options-Trading
-draft: true
+draft: false
 disableComments: false
 ---
 # Tastytrade Options

@@ -9,7 +9,7 @@ tags:
 - Trade-Advice🧠 
 categories: 
 - 🤹Options-Trading
-draft: true
+draft: false
 disableComments: false
 ---
 - By Praful Kulkarni Option Seller Interview with 

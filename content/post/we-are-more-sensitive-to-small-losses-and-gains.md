@@ -9,7 +9,7 @@ tags:
 - 🧔Nicholas-Taleb 
 categories: 
 - 🤹Options-Trading
-draft: true
+draft: false
 disableComments: false
 ---
 

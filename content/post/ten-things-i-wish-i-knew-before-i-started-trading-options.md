@@ -9,7 +9,7 @@ tags:
 - Trade-Advice🧠 
 categories: 
 - 🤹Options-Trading
-draft: true
+draft: false
 disableComments: false
 ---
 # 10 Things I Wish I knew Before I started Trading Options

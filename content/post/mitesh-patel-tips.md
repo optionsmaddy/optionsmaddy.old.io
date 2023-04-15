@@ -9,7 +9,7 @@ tags:
 - Trading-Indicator📊 
 categories: 
 - 🤹Options-Trading
-draft: true
+draft: false
 disableComments: false
 ---
 # Mitesh Patel Tips

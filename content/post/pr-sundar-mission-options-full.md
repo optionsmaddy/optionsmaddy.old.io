@@ -9,7 +9,7 @@ tags:
 - 🧔PRSundar 
 categories: 
 - 🤹Options-Trading
-draft: true
+draft: false
 disableComments: false
 ---
 # Options Trading 🤹🏼- "Mission Options" -PRSundar🧔 

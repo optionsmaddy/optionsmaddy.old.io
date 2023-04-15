@@ -9,7 +9,7 @@ tags:
 - Basics🔤 
 categories: 
 - 🤹Options-Trading
-draft: true
+draft: false
 disableComments: false
 ---
 # Selling PUT vs Buying CALL

@@ -9,7 +9,7 @@ tags:
 - 🧔Option-Adjustment-Trader-Tamil
 categories: 
 - 🤹Options-Trading
-draft: true
+draft: false
 disableComments: false
 ---
 ![](https://i.imgur.com/mryflAs.png)

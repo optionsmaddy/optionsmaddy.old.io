@@ -8,7 +8,7 @@ tags:
 - #Futures-Contract🛸
 categories: 
 - 🤹Options-Trading
-draft: true
+draft: false
 disableComments: false
 ---
 - Synthetic Futures better than Futures.

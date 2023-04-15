@@ -12,7 +12,7 @@ tags:
 - #Strangle🪢 
 categories: 
 - 🤹Options-Trading
-draft: true
+draft: false
 disableComments: false
 ---
 # Option Strategies Capital Execution

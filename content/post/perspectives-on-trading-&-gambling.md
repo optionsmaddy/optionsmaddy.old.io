@@ -10,7 +10,7 @@ tags:
 - Tweet🐦
 categories: 
 - 🤹Options-Trading
-draft: true
+draft: false
 disableComments: false
 ---
 ![](https://i.imgur.com/TvVepDH.jpg)

@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "acd0ee0934b99f5d",
+        "id": "190b146b19cd7cd7",
         "type": "tabs",
         "children": [
           {
-            "id": "eb31b05d051aaef2",
+            "id": "89d6cd9a1551447d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/post/gamma.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/post/gamma.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/post/gamma.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "content/post/gamma.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -145,34 +137,34 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "eb31b05d051aaef2",
+  "active": "89d6cd9a1551447d",
   "lastOpenFiles": [
-    "content/post/fnopulse-strangle-chart.md",
-    "content/post/finnifty-important-stock-list.md",
-    "content/post/difference-between-collateral-numbers-on-trade-close-day-vs-next-day-on-zerodha.md",
-    "content/post/delta.md",
-    "content/post/delayed-payment-charges-in-zerodha.md",
-    "content/post/crypto-options.md",
-    "content/post/call-condors-vs-put-condors-vs-iron-condors.md",
-    "content/post/calendar-spread.md",
-    "content/post/bull-put-spread-vs-bull-call-spread-bullish strategies.md",
-    "content/post/brokerage-tax-calculation-options-zerodha-md.md",
-    "content/post/best-time-for-short-straddle.md",
-    "content/post/best-time-for-options.md",
-    "content/post/bank-nifty-important-stock-list.md",
-    "content/post/bandi-shreyas-traders-carnival.md",
-    "content/post/bandi-shreyas-options-intraday-f2f.md",
-    "content/post/bandi-shreyas-on-when-to-trade-what-index.md",
-    "content/post/balanced-calander-spread.md",
-    "content/post/aayush-thakur-intraday-chart-reading.md",
-    "content/post/19-commandments-options-tasty-trade.md",
-    "content/post/9-rules-of-options-sourabh-gandhi.md",
-    "content/post/4-things-to-check-before-option-selling.md",
-    "content/post/Zerodha-Kite.md",
     "content/post/zerodha-kite.md",
     "content/post/zero-sum-game.md",
     "content/post/when-you-are-back-testing-test-it-on-futures.md",
     "content/post/we-are-more-sensitive-to-small-losses-and-gains.md",
+    "content/post/vega.md",
+    "content/post/trading-view-hacks.md",
+    "content/post/trading-long-term-for-more-than-9-months-need-5 perc-more-exposure-margin.md",
+    "content/post/trade-index-options-over-stock-options.md",
+    "content/post/theta.md",
+    "content/post/the-ideal-trading-mindset.md",
+    "content/post/ten-things-i-wish-i-knew-before-i-started-trading-options.md",
+    "content/post/tastytrade-options.md",
+    "content/post/synthetic-futures-better-than-futures.md",
+    "content/post/supertrend-by-pr-sundar.md",
+    "content/post/sundar-tcs-option.md",
+    "content/post/stock-result-impact.md",
+    "content/post/smc-webinar.md",
+    "content/post/short-straddle.md",
+    "content/post/selling-put-vs-buying-call.md",
+    "content/post/saravanan-call-condor-and-ratio-strategy.md",
+    "content/post/rho.md",
+    "content/post/put-vs-call-my-eg.md",
+    "content/post/put-vs-call.md",
+    "content/post/pr-sundar-videos-notes.md",
+    "content/post/pr-sundar-mission-options-full.md",
+    "content/post/pr-sundar-important-points-webinar.md",
     "content/post",
     "config.toml",
     "config2 copy.toml",

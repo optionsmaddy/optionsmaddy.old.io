@@ -9,7 +9,7 @@ tags:
 - 🧔PRSundar 
 categories: 
 - 🤹Options-Trading
-draft: true
+draft: false
 disableComments: false
 ---
 - Markets do not care who wins in elections, what markets want is a clear mandate for any party. Remember, markets can take positive things, can take negative things, but can not take uncertainty. #🧔PRSundar

@@ -9,7 +9,7 @@ tags:
 - Trading-View📈
 categories: 
 - 🤹Options-Trading
-draft: true
+draft: false
 disableComments: false
 ---
 # Trading View Hacks

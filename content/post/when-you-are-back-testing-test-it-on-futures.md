@@ -9,7 +9,7 @@ tags:
 - Trade-Advice🧠 
 categories: 
 - 🤹Options-Trading
-draft: true
+draft: false
 disableComments: false
 ---
 - Since futures are traded on the market always back test on the futures and never on the spot (cash) market.

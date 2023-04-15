@@ -10,7 +10,7 @@ tags:
 - 🧔MD 
 categories: 
 - 🤹Options-Trading
-draft: true
+draft: false
 disableComments: false
 ---
 # Options Strategies GDrive Book 

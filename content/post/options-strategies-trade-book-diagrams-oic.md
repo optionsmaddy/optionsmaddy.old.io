@@ -9,7 +9,7 @@ tags:
 - Option-Strategies🛠️ 
 categories: 
 - 🤹Options-Trading
-draft: true
+draft: false
 disableComments: false
 ---
 # Options Strategies Trade book Diagrams OIC 

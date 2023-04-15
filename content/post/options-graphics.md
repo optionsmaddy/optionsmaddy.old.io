@@ -9,7 +9,7 @@ tags:
 - Web-Grabs🌐 
 categories: 
 - 🤹Options-Trading
-draft: true
+draft: false
 disableComments: false
 ---
 # Options Graphics

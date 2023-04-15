@@ -10,7 +10,7 @@ tags:
 - 🧔Nitin-Murarka 
 categories: 
 - 🤹Options-Trading
-draft: true
+draft: false
 disableComments: false
 ---
 # SMC Webinar By Nitin Murarka 

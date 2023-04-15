@@ -9,7 +9,7 @@ tags:
 - #Basics🔤 
 categories: 
 - 🤹Options-Trading
-draft: true
+draft: false
 disableComments: false
 ---
 # Advantages of Option Buyers

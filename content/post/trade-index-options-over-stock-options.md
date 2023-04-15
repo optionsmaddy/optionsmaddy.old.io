@@ -10,7 +10,7 @@ tags:
 - #Investments💷/Stock📈 
 categories: 
 - 🤹Options-Trading
-draft: true
+draft: false
 disableComments: false
 ---
 # Trade Index Options Over Stock Options
