@@ -32,11 +32,3 @@ https://www.calculatorsoup.com/calculators/math/ratios.php
 
 ---
 🏷️Tags : #Investments💷/Options-Trading🎛️ 
-📚Reference :
-
----
-📅   Sunday, May 1, 2022  (10:23 PM) - *Created*
-🗓️ `=dateformat(this.file.mtime, "DDDD '('hh':'mm a')'")` - *Last Modified* 
-
----
-

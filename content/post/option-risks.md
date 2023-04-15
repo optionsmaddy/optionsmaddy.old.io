@@ -19,10 +19,3 @@ disableComments: false
 ---
 🏷️Tags : #Investments💷/Options-Trading🎛️ 
 📚Reference : Twitter Thread ( Sisodia CFA )
-
----
-📅   Sunday, June 12, 2022  (01:48 PM) - *Created*
-🗓️ `=dateformat(this.file.mtime, "DDDD '('hh':'mm a')'")` - *Last Modified* 
-
----
-

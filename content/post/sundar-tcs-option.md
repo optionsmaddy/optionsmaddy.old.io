@@ -15,16 +15,5 @@ disableComments: false
 # Sundar TCS Option
 [![image_name](https://i.imgur.com/BxleyAZ.png)](https://i.imgur.com/BxleyAZ.png)
 
-
-
-
 ---
 🏷️Tags : #🧔PRSundar 
-📚Reference :
-
----
-📅   Thursday, April 14, 2022  (10:47 AM) - *Created*
-🗓️ `=dateformat(this.file.mtime, "DDDD '('hh':'mm a')'")` - *Last Modified* 
-
----
-

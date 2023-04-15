@@ -44,11 +44,3 @@ by #🧔PRSundar
 
 ---
 🏷️Tags : #Investments💷/Options-Trading🎛️ 
-📚Reference :
-
----
-📅   Sunday, February 27, 2022  (02:10 PM) - *Created*
-🗓️ `=dateformat(this.file.mtime, "DDDD '('hh':'mm a')'")` - *Last Modified* 
-
----
-

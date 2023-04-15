@@ -70,5 +70,7 @@ disableComments: false
 - It will help you not to go bankrupt.
 - Thing don't go your way, runaway.
 
->[!QUOTE]+ Imbalance between Put & Call Premiums 
-> On expiry day #🧔Bandi-Shreyas allows only maximum 2:1 premium imbalance.
+{{% notice info %}}
+## Imbalance between Put & Call Premiums
+- On expiry day #🧔Bandi-Shreyas allows only maximum 2:1 premium imbalance.
+{{% /notice %}}

@@ -29,5 +29,3 @@ disableComments: false
 ![[Theta ⌚]]
 
 ## Reference
-
-![[Option Greeks Infographics]]

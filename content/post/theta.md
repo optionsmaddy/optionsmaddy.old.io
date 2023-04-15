@@ -13,6 +13,3 @@ draft: false
 disableComments: false
 ---
 ![](https://i.imgur.com/V1ddFmL.png)
-
-# PR Sundar on THETA ⌚
-![[PR Sundar - Mission Options Full#Theta ⌚]]

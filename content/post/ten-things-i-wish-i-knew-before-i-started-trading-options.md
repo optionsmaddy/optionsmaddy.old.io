@@ -24,7 +24,3 @@ disableComments: false
 
 ---
 📅   Tuesday, March 8, 2022  (08:00 PM) - *Created*
-🗓️ `=dateformat(this.file.mtime, "DDDD '('hh':'mm a')'")` - *Last Modified* 
-
----
-

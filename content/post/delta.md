@@ -25,4 +25,4 @@ disableComments: false
 - Call Delta = 0 to 1
 
 # PR Sundar on Delta 📏
-![[PR Sundar - Mission Options Full#18. Option Greeks 1 DELTA 📏]]
+[pr-sundar-mission-options-full](pr-sundar-mission-options-full.md)

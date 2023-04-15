@@ -19,10 +19,3 @@ disableComments: false
 ---
 🏷️Tags : #Investments💷/Options-Trading🎛️ 
 📚Reference : #🧔Bandi-Shreyas 
-
----
-📅   Saturday, May 7, 2022  (01:31 PM) - *Created*
-🗓️ `=dateformat(this.file.mtime, "DDDD '('hh':'mm a')'")` - *Last Modified* 
-
----
-

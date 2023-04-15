@@ -349,7 +349,4 @@ There are 3 types of Call options
 
 ---
 📅   Saturday, February 26, 2022  (09:18 PM) - *Created*
-🗓️ `=dateformat(this.file.mtime, "DDDD '('hh':'mm a')'")` - *Last Modified* 
-
----
 

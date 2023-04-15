@@ -30,9 +30,3 @@ disableComments: false
 📚Reference : BullTrack RT Youtube Channel
 
 <iframe width="250" height="150" src="https://www.youtube.com/embed/DVyi31k6qHc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
----
-📅   Monday, April 11, 2022  (08:09 PM) - *Created*
-🗓️ `=dateformat(this.file.mtime, "DDDD '('hh':'mm a')'")` - *Last Modified* 
-
----
-

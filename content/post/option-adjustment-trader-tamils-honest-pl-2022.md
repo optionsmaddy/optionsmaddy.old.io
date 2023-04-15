@@ -14,7 +14,7 @@ disableComments: false
 ---
 ![](https://i.imgur.com/mryflAs.png)
 
-- #🧔Option-Adjustment-Trader-Tamil 
+
+{{% notice update %}}
 - Gives insights on how decently eperienced trader can make from intraday trading.
-- #Investments💷/Options-Trading🎛️ 
-- I made ~3% profit on november month. ( was busy traded very less. )
+{{% /notice %}}

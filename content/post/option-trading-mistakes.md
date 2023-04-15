@@ -28,11 +28,3 @@ disableComments: false
 
 ---
 🏷️Tags : #Investments💷/Options-Trading🎛️ #🧔Abid-Sensibull 
-📚Reference :
-
----
-📅   Sunday, June 12, 2022  (10:45 AM) - *Created*
-🗓️ `=dateformat(this.file.mtime, "DDDD '('hh':'mm a')'")` - *Last Modified* 
-
----
-

@@ -30,7 +30,3 @@ disableComments: false
 
 ---
 📅   Monday, April 25, 2022  (02:52 PM) - *Created*
-🗓️ `=dateformat(this.file.mtime, "DDDD '('hh':'mm a')'")` - *Last Modified* 
-
----
-

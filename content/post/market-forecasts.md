@@ -24,10 +24,3 @@ disableComments: false
 ---
 🏷️Tags : #Investments💷/Options-Trading🎛️ 
 📚Reference : To Template -> Daily Trading Notes
-
----
-📅   Thursday, April 21, 2022  (08:40 AM) - *Created*
-🗓️ `=dateformat(this.file.mtime, "DDDD '('hh':'mm a')'")` - *Last Modified* 
-
----
-

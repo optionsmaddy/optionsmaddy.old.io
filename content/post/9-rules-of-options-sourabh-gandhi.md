@@ -48,10 +48,3 @@ note : When European market opens @ 11 O Clock usually market could be range bou
 🏷️Tags : #Investments💷/Options-Trading🎛️ #🧔Sourabh-Gandhi
 📚Reference :
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MDyFZZl5Gz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
----
-📅   Friday, April 15, 2022  (01:37 PM) - *Created*
-🗓️ `=dateformat(this.file.mtime, "DDDD '('hh':'mm a')'")` - *Last Modified* 
-
----
-

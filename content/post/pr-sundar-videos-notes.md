@@ -23,11 +23,3 @@ disableComments: false
 ---
 🏷️Tags : #Investments💷/Options-Trading🎛️ 
 📚Reference : P.R.Sundar Videos
-
----
-📅   Sunday, April 10, 2022  (10:30 AM) - *Created*
-🗓️ `=dateformat(this.file.mtime, "DDDD '('hh':'mm a')'")` - *Last Modified* 
-
----
-
-

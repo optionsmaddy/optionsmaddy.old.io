@@ -11,8 +11,12 @@
             "id": "89d6cd9a1551447d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "content/post/zerodha-kite.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "content/post/zerodha-kite.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "content/post/zerodha-kite.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "content/post/zerodha-kite.md"
+              }
             }
           }
         ]
@@ -139,7 +147,6 @@
   },
   "active": "89d6cd9a1551447d",
   "lastOpenFiles": [
-    "content/post/zerodha-kite.md",
     "content/post/zero-sum-game.md",
     "content/post/when-you-are-back-testing-test-it-on-futures.md",
     "content/post/we-are-more-sensitive-to-small-losses-and-gains.md",
@@ -158,13 +165,14 @@
     "content/post/smc-webinar.md",
     "content/post/short-straddle.md",
     "content/post/selling-put-vs-buying-call.md",
-    "content/post/saravanan-call-condor-and-ratio-strategy.md",
-    "content/post/rho.md",
     "content/post/put-vs-call-my-eg.md",
     "content/post/put-vs-call.md",
     "content/post/pr-sundar-videos-notes.md",
     "content/post/pr-sundar-mission-options-full.md",
     "content/post/pr-sundar-important-points-webinar.md",
+    "content/post/pivot-points-for-intraday-trading.md",
+    "content/post/perspectives-on-trading-&-gambling.md",
+    "content/post/options-strategies-trade-book-diagrams-oic.md",
     "content/post",
     "config.toml",
     "config2 copy.toml",

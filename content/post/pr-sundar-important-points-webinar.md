@@ -50,7 +50,3 @@ Quadruple witching refers to a date on which stock index futures, stock index op
 
 ---
 📅   Sunday, March 13, 2022  (09:38 PM) - *Created*
-🗓️ `=dateformat(this.file.mtime, "DDDD '('hh':'mm a')'")` - *Last Modified* 
-
----
-

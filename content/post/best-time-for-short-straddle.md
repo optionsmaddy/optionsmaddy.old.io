@@ -21,11 +21,3 @@ disableComments: false
 
 ---
 🏷️Tags : #🧔PRSundar #Investments💷/Options-Trading🎛️ 
-📚Reference :
-
----
-📅   Sunday, March 20, 2022  (04:04 PM) - *Created*
-🗓️ `=dateformat(this.file.mtime, "DDDD '('hh':'mm a')'")` - *Last Modified* 
-
----
-

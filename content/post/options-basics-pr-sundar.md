@@ -61,10 +61,3 @@ In PUT Option
 ---
 *🏷️Tags : #Investments💷/Options-Trading🎛️ #🧔PRSundar
 *📚Reference : PR Sundar Option Basics Playlist 3 Videos
-
----
-📅   Saturday, February 26, 2022  (09:38 PM) - *Created*
-🗓️ `=dateformat(this.file.mtime, "DDDD '('hh':'mm a')'")` - *Last Modified* 
-
----
-

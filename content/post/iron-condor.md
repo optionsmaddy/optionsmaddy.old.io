@@ -133,4 +133,4 @@ Do Iron Condor IF
 ---
 🏷️Tags : #Investments💷/Options-Trading🎛️ 
 📚Reference :
-<iframe width="250" height="150" src="https://www.youtube.com/embed/mkSuGYcd7is" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe
+<iframe width="250" height="150" src="https://www.youtube.com/embed/mkSuGYcd7is" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

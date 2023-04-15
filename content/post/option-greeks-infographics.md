@@ -16,15 +16,5 @@ disableComments: false
 
 ![](https://i.imgur.com/pGkvnQ2.jpg)
 
-
-
 ---
 🏷️Tags :  #Investments💷/Options-Trading🎛️ 
-📚Reference :
-
----
-📅   Saturday, April 23, 2022  (11:09 AM) - *Created*
-🗓️ `=dateformat(this.file.mtime, "DDDD '('hh':'mm a')'")` - *Last Modified* 
-
----
-

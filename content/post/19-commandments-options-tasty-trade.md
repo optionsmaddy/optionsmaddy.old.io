@@ -56,10 +56,3 @@ TWENTY TASTYTRADE TRADING COMMANDMENTS
 ---
 🏷️Tags : #Investments💷/Options-Trading🎛️ #🧔🍒TastyTrade 
 📚Reference :https://www.tastytrade.com/news-insights/-tastytrade-trading-commandments
-
----
-📅   Thursday, April 14, 2022  (10:21 PM) - *Created*
-🗓️ `=dateformat(this.file.mtime, "DDDD '('hh':'mm a')'")` - *Last Modified* 
-
----
-

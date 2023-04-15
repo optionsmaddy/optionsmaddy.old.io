@@ -29,6 +29,11 @@ disableComments: false
 
  ![](https://i.imgur.com/iwpLlL9.png)
 
->[!TIP]+ CALL CONDOR & IRON CONDOR
-> - CALL CONDOR : **Bull Call Spread** + **Bear Put Spread**
-> - IRON CONDOR : **Bear Call Spread** + **Bull Put Spread**
+
+
+
+{{% notice info %}}
+## CALL CONDOR & IRON CONDOR
+- CALL CONDOR : **Bull Call Spread** + **Bear Put Spread**
+- IRON CONDOR : **Bear Call Spread** + **Bull Put Spread**
+{{% /notice %}}

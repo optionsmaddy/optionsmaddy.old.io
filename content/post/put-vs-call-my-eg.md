@@ -63,11 +63,6 @@ disableComments: false
 
 ---
 🏷️Tags : #Investments💷/Options-Trading🎛️ 
-📚Reference :
 
 ---
 📅   Wednesday, March 9, 2022  (11:23 PM) - *Created*
-🗓️ `=dateformat(this.file.mtime, "DDDD '('hh':'mm a')'")` - *Last Modified* 
-
----
-

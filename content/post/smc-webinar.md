@@ -30,11 +30,6 @@ disableComments: false
 - Buy position in smaller total change in oi.
 ---
 🏷️Tags : #Investments💷/Options-Trading🎛️ #🧔Nitin-Murarka #My-Notes-Pending📙 
-📚Reference :
 
 ---
 📅   Thursday, April 28, 2022  (09:09 PM) - *Created*
-🗓️ `=dateformat(this.file.mtime, "DDDD '('hh':'mm a')'")` - *Last Modified* 
-
----
-

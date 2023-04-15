@@ -15,7 +15,7 @@ disableComments: false
 - During expiry if the far OTM Spikes while market moving up means that market will go up fast
 - Option Adjustment Trader Tamil
 - Background :
-	- [[2022-11-24]] (today) was expiry.
+	- 2022-11-24 (today) was expiry.
 	- Last 30 Minutes, after 03:00 pm, Nifty rallied very fast.
 	- #🧔Option-Adjustment-Trader-Tamil saved potential 1.5 Lakh Loss.
 - Far OTM Spike increases, as market is moving upside, means market is going to increase very fast.

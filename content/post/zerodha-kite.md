@@ -43,16 +43,8 @@ You call our dealing desk to place an intraday buy order. The order gets execute
 ### Reduce Margin
 - Buy More Pts & Sell Less pts for CE
 - Buy Less Pts & Sell More pts for PE 
-------
-
-
 ---
 *🏷️Tags : #Investments💷/Stock📈 #Investments💷/Options-Trading🎛️ 
-*📚Reference :
 
 ---
 📅   Saturday, February 26, 2022  (07:51 PM) - *Created*
-🗓️ `=dateformat(this.file.mtime, "DDDD '('hh':'mm a')'")` - *Last Modified* 
-
----
-
