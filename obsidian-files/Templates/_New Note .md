@@ -10,7 +10,7 @@ categories:
 - 🤹Options-Trading
 draft: true
 disableComments: true
-slug: <% tp.file.title %>
+aliases: <% tp.file.title %>
 ---
 
 
