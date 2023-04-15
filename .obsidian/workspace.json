@@ -4,59 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "2bc21a3ec4f5271e",
+        "id": "acd0ee0934b99f5d",
         "type": "tabs",
         "children": [
           {
-            "id": "c89051e6e62899d0",
+            "id": "eb31b05d051aaef2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian-files/Templates/_New Note .md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "92ace3c11b1dd7b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/post/hi-i-m-maddy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a7ab095dd3d212f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/post/new note 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3b91dfe910f537d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/post/new note 2.md",
+                "file": "content/post/gamma.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 441.5
   },
   "right": {
     "id": "5152024f418cec54",
@@ -122,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/post/new note 2.md",
+                "file": "content/post/gamma.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/post/new note 2.md",
+                "file": "content/post/gamma.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/post/new note 2.md"
+                "file": "content/post/gamma.md"
               }
             }
           }
@@ -182,38 +145,38 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "3b91dfe910f537d8",
+  "active": "eb31b05d051aaef2",
   "lastOpenFiles": [
-    "content/post/new note 1.md",
-    "content/post/new note 2.md",
-    "obsidian-files/Templates/_New Note .md",
-    "content/post/hi-i-m-maddy.md",
-    "content/post/testing-comments.md",
-    "content/post/objective-of-this-project.md",
-    "content/post/testing-comments-again.md",
-    "content/posts/objective-of-this-project.md",
+    "content/post/fnopulse-strangle-chart.md",
+    "content/post/finnifty-important-stock-list.md",
+    "content/post/difference-between-collateral-numbers-on-trade-close-day-vs-next-day-on-zerodha.md",
+    "content/post/delta.md",
+    "content/post/delayed-payment-charges-in-zerodha.md",
+    "content/post/crypto-options.md",
+    "content/post/call-condors-vs-put-condors-vs-iron-condors.md",
+    "content/post/calendar-spread.md",
+    "content/post/bull-put-spread-vs-bull-call-spread-bullish strategies.md",
+    "content/post/brokerage-tax-calculation-options-zerodha-md.md",
+    "content/post/best-time-for-short-straddle.md",
+    "content/post/best-time-for-options.md",
+    "content/post/bank-nifty-important-stock-list.md",
+    "content/post/bandi-shreyas-traders-carnival.md",
+    "content/post/bandi-shreyas-options-intraday-f2f.md",
+    "content/post/bandi-shreyas-on-when-to-trade-what-index.md",
+    "content/post/balanced-calander-spread.md",
+    "content/post/aayush-thakur-intraday-chart-reading.md",
+    "content/post/19-commandments-options-tasty-trade.md",
+    "content/post/9-rules-of-options-sourabh-gandhi.md",
+    "content/post/4-things-to-check-before-option-selling.md",
+    "content/post/Zerodha-Kite.md",
+    "content/post/zerodha-kite.md",
+    "content/post/zero-sum-game.md",
+    "content/post/when-you-are-back-testing-test-it-on-futures.md",
+    "content/post/we-are-more-sensitive-to-small-losses-and-gains.md",
     "content/post",
-    "content/posts/hi-i-m-maddy.md",
     "config.toml",
     "config2 copy.toml",
     "config2.toml",
-    "content/contact.md",
-    "content/about.md",
-    "content/posts/Bandi-Shreyas-Traders-Carnival.md",
-    "content/posts/IRON-CONDOR-ANALYSIS.md",
-    "content/posts/Iron-Condor.md",
-    "content/posts/Pivot-Points-for-Intraday-Trading.md",
-    "Bandi-Shreyas-Options-Intraday-F2F.md",
-    "Iron-Condor.md",
-    "19-Commandments-Options-Tasty-Trade.md",
-    "PR-Sundar---Mission-Options-Full.md",
-    "Pivot-Points-for-Intraday-Trading.md",
-    "content/posts/Bandi-Shreyas-Options-Intraday-F2F.md",
-    "content/posts/Untitled.md",
-    "content/posts/19-Commandments-Options-Tasty-Trade.md",
-    "content/posts/PR-Sundar---Mission-Options-Full.md",
-    "content/posts/Zerodha-Kite.md",
-    "content/posts/Options-Strategies-Trade-book-Diagrams-OIC.md",
     "static/upload",
     "10-04 Monday 00.png"
   ]
