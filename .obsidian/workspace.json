@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/post/new note 1.md",
+                "file": "content/post/new note 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/post/new note 1.md",
+                "file": "content/post/new note 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/post/new note 1.md"
+                "file": "content/post/new note 2.md"
               }
             }
           }
@@ -182,10 +182,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a7ab095dd3d212f8",
+  "active": "3b91dfe910f537d8",
   "lastOpenFiles": [
-    "content/post/new note 2.md",
     "content/post/new note 1.md",
+    "content/post/new note 2.md",
     "obsidian-files/Templates/_New Note .md",
     "content/post/hi-i-m-maddy.md",
     "content/post/testing-comments.md",

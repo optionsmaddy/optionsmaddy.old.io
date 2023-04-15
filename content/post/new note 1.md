@@ -8,7 +8,7 @@ tags:
 - Youtube📺
 categories: 
 - 🤹Options-Trading
-draft: true
+draft: false
 disableComments: true
 aliases: new-note-1
 ---
