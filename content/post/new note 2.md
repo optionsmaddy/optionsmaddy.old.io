@@ -8,8 +8,8 @@ tags:
 - Youtube📺
 categories: 
 - 🤹Options-Trading
-draft: true
-disableComments: true
+draft: false
+disableComments: false
 slug: new-note-2
 ---
 - [new note 1](new-note-1.md)
