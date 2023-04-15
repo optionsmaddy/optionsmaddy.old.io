@@ -1,8 +1,15 @@
 baseURL = 'https://optionsmaddy.github.io/'
 languageCode = 'en-us'
 title = 'OptionsMaddy'
-disqusShortname = 'optionsmaddy'
+
+#disqusShortname = 'optionsmaddy'
 googleFonts = ["Indie+Flower", "Readex+Pro:ital,wght@0,100;0,400;0,700;1,400"]
+
+[params.utterances]
+repo = "optionsmaddy/optionsmaddy.github.io"
+issueTerm = "pathname"
+theme= "github-light"
+label = "maddyoptions-comment"
 
 [params]
 title = "OptionsMaddy"
