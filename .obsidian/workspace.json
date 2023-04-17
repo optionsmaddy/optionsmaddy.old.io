@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "190b146b19cd7cd7",
+        "id": "4835a676be74e172",
         "type": "tabs",
         "children": [
           {
-            "id": "a8579f2a6ca33eac",
+            "id": "bdb4eaa0c4896de7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/post/4-things-to-check-before-option-selling.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/post/4-things-to-check-before-option-selling.md",
+                "file": "content/tags.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/post/4-things-to-check-before-option-selling.md",
+                "file": "content/tags.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/post/4-things-to-check-before-option-selling.md"
+                "file": "content/tags.md"
               }
             }
           }
@@ -145,8 +141,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a8579f2a6ca33eac",
+  "active": "752ebf2089807085",
   "lastOpenFiles": [
+    "content/contact.md",
+    "content/about.md",
+    "content/post/4-things-to-check-before-option-selling.md",
     "content/unpublished/mds-options-trading-checklist.md",
     "content/unpublished/mds-options-strategy-2023.md",
     "content/unpublished/mds-benchmark.md",
@@ -156,7 +155,6 @@
     "content/unpublished/fnopulse-strangle-chart.md",
     "content/post/zerodha-kite.md",
     "content/unpublished",
-    "content/post/4-things-to-check-before-option-selling.md",
     "content/post/zero-sum-game.md",
     "content/post/when-you-are-back-testing-test-it-on-futures.md",
     "content/post/we-are-more-sensitive-to-small-losses-and-gains.md",
@@ -172,8 +170,6 @@
     "content/post/supertrend-by-pr-sundar.md",
     "content/post/sundar-tcs-option.md",
     "content/post/stock-result-impact.md",
-    "content/post/smc-webinar.md",
-    "content/post/short-straddle.md",
     "content/post",
     "config.toml",
     "config2 copy.toml",
