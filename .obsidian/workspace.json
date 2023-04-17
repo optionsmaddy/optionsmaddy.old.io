@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "89d6cd9a1551447d",
+            "id": "a8579f2a6ca33eac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/post/zerodha-kite.md",
+                "file": "content/post/4-things-to-check-before-option-selling.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 441.5
+    "width": 219.5
   },
   "right": {
     "id": "5152024f418cec54",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/post/zerodha-kite.md",
+                "file": "content/post/4-things-to-check-before-option-selling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/post/zerodha-kite.md",
+                "file": "content/post/4-things-to-check-before-option-selling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/post/zerodha-kite.md"
+                "file": "content/post/4-things-to-check-before-option-selling.md"
               }
             }
           }
@@ -145,8 +145,18 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "89d6cd9a1551447d",
+  "active": "a8579f2a6ca33eac",
   "lastOpenFiles": [
+    "content/unpublished/mds-options-trading-checklist.md",
+    "content/unpublished/mds-options-strategy-2023.md",
+    "content/unpublished/mds-benchmark.md",
+    "content/unpublished/md-most-important-options-points-curated.md",
+    "content/unpublished/md-learned-lessons-options.md",
+    "content/unpublished/if-otm-spikes-market-will-run.md",
+    "content/unpublished/fnopulse-strangle-chart.md",
+    "content/post/zerodha-kite.md",
+    "content/unpublished",
+    "content/post/4-things-to-check-before-option-selling.md",
     "content/post/zero-sum-game.md",
     "content/post/when-you-are-back-testing-test-it-on-futures.md",
     "content/post/we-are-more-sensitive-to-small-losses-and-gains.md",
@@ -164,15 +174,6 @@
     "content/post/stock-result-impact.md",
     "content/post/smc-webinar.md",
     "content/post/short-straddle.md",
-    "content/post/selling-put-vs-buying-call.md",
-    "content/post/put-vs-call-my-eg.md",
-    "content/post/put-vs-call.md",
-    "content/post/pr-sundar-videos-notes.md",
-    "content/post/pr-sundar-mission-options-full.md",
-    "content/post/pr-sundar-important-points-webinar.md",
-    "content/post/pivot-points-for-intraday-trading.md",
-    "content/post/perspectives-on-trading-&-gambling.md",
-    "content/post/options-strategies-trade-book-diagrams-oic.md",
     "content/post",
     "config.toml",
     "config2 copy.toml",
