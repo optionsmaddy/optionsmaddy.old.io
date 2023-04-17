@@ -4,18 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "4835a676be74e172",
+        "id": "3448ce63d755b3a7",
         "type": "tabs",
         "children": [
           {
-            "id": "bdb4eaa0c4896de7",
+            "id": "44f4981279629152",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "content/tags.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "40e0fa327ff9e6cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/post/2022 04 17 8.5K MTM Profit.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/tags.md",
+                "file": "content/post/2022 04 17 8.5K MTM Profit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/tags.md",
+                "file": "content/post/2022 04 17 8.5K MTM Profit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/tags.md"
+                "file": "content/post/2022 04 17 8.5K MTM Profit.md"
               }
             }
           }
@@ -141,8 +158,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "752ebf2089807085",
+  "active": "40e0fa327ff9e6cb",
   "lastOpenFiles": [
+    "content/tags.md",
+    "content/post/2022 04 17 8.5K MTM Profit.md",
     "content/contact.md",
     "content/about.md",
     "content/post/4-things-to-check-before-option-selling.md",
@@ -168,8 +187,6 @@
     "content/post/tastytrade-options.md",
     "content/post/synthetic-futures-better-than-futures.md",
     "content/post/supertrend-by-pr-sundar.md",
-    "content/post/sundar-tcs-option.md",
-    "content/post/stock-result-impact.md",
     "content/post",
     "config.toml",
     "config2 copy.toml",
