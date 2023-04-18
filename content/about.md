@@ -32,4 +32,4 @@ Maddy 🙏
 
 -👋 [Contact me here](https://optionsmaddy.github.io/contact)
 
-<center> *Wishing you l lot of profits.* 💰🎉😊 </center>
+<center> *Wishing you a lot of profits.* 💰🎉😊 </center>
