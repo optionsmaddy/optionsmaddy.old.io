@@ -8,7 +8,7 @@ googleFonts = ["Indie+Flower", "Readex+Pro:ital,wght@0,100;0,400;0,700;1,400"]
 [params.utterances]
 repo = "optionsmaddy/optionsmaddy.github.io"
 issueTerm = "pathname"
-theme= "github-light"
+theme= "github-dark"
 label = "maddyoptions-comment"
 
 [params]
@@ -18,7 +18,7 @@ description = """ ⚖️ Trading Options 🤹
 Motto : Consistency, Patience & Discipline.
 Here, I Share My Trading Notes📔.
 """
-profilePicture = "images/logo2.png"
+profilePicture = "images/logodark.png"
 mainSections = ["post"]
 
 gtagId = "G-4B0KQ8RWDQ"
@@ -43,7 +43,7 @@ contactFormAction = "https://formspree.io/f/xyyabgnb"
 
 #fullPostContent = true
 #hidesidebar = true
-#displayMode = "light"
+displayMode = "dark"
 
 [[params.socialIcons]]
 icon = "fab fa-twitter"
