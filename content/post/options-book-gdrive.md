@@ -7,7 +7,7 @@ description:
 tags:
 - Youtube📺
 - Resources📦 
-- 🧔MD 
+- 🧔MADDY 
 categories: 
 - 🤹Options-Trading
 draft: false

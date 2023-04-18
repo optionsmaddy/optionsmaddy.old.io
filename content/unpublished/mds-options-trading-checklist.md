@@ -6,7 +6,7 @@ title: MDs Options Trading Checklist
 description: 
 tags:
 - Youtube📺
-- 🧔MD 
+- 🧔MADDY 
 categories: 
 - 🤹Options-Trading
 draft: true

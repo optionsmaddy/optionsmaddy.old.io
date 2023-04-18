@@ -6,7 +6,7 @@ title: MD Most Important Options Points Curated
 description: 
 tags:
 - Youtube📺
-- 🧔MD 
+- 🧔MADDY 
 categories: 
 - 🤹Options-Trading
 draft: true
@@ -74,7 +74,7 @@ disableComments: false
 - Ask if it is a theta game or dekta game ? Delta game make money on trending market. Theta game make money on sideways. - Jagan
 - 
 ---
-🏷️Tags : #Investments💷/Options-Trading🎛️ #🧔MD 
+🏷️Tags : #Investments💷/Options-Trading🎛️ #🧔MADDY 
 📚Reference : MDs Collected & Curated Option advices.
 
 ---

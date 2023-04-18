@@ -8,6 +8,6 @@
 
 
 
-#Investments💷/Trade-Diary📗 
+#Trade-Diary📗 
 
 --- 

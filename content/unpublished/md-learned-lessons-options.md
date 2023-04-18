@@ -6,7 +6,7 @@ title: MD Learned Lessons Options
 description: 
 tags:
 - Youtube📺
-- 🧔MD 
+- 🧔MADDY 
 categories: 
 - 🤹Options-Trading
 draft: true

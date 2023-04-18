@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "44f4981279629152",
+            "id": "44d7eb7bd8c21380",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/tags.md",
+                "file": "content/post/2022-04-17 8.5K MTM Profit Calm Day.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "40e0fa327ff9e6cb",
+            "id": "9c8b0a7ec834cb76",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/post/2022 04 17 8.5K MTM Profit.md",
+                "file": "content/post/2023-04-18 Profit 11.8K MTM Fin-Nifty Operator Manupulation.md",
                 "mode": "source",
                 "source": false
               }
@@ -51,7 +51,18 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "12533031d2eb38af",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
               }
             }
           },
@@ -61,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Investments💷/Trade-Diary📗",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/post/2022 04 17 8.5K MTM Profit.md",
+                "file": "content/post/2023-04-18 Profit 11.8K MTM Fin-Nifty Operator Manupulation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,20 +126,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/post/2022 04 17 8.5K MTM Profit.md",
+                "file": "content/post/2023-04-18 Profit 11.8K MTM Fin-Nifty Operator Manupulation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "12533031d2eb38af",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
               }
             }
           },
@@ -138,16 +138,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/post/2022 04 17 8.5K MTM Profit.md"
+                "file": "content/post/2023-04-18 Profit 11.8K MTM Fin-Nifty Operator Manupulation.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,10 +158,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "40e0fa327ff9e6cb",
+  "active": "9c8b0a7ec834cb76",
   "lastOpenFiles": [
+    "content/post/2022-04-17 8.5K MTM Profit Calm Day.md",
+    "content/post/2023-04-18 Profit 11.8K MTM Fin-Nifty Operator Manupulation.md",
+    "content/post/options-book-gdrive.md",
+    "obsidian-files/Templates/Daily Trade Diary.md",
+    "obsidian-files/Templates/Daily Template Embed .md",
+    "obsidian-files/Templates/_New Note .md",
     "content/tags.md",
-    "content/post/2022 04 17 8.5K MTM Profit.md",
+    "obsidian-files/Templates/Trade Daily Diary .md",
     "content/contact.md",
     "content/about.md",
     "content/post/4-things-to-check-before-option-selling.md",
@@ -181,12 +187,6 @@
     "content/post/trading-view-hacks.md",
     "content/post/trading-long-term-for-more-than-9-months-need-5 perc-more-exposure-margin.md",
     "content/post/trade-index-options-over-stock-options.md",
-    "content/post/theta.md",
-    "content/post/the-ideal-trading-mindset.md",
-    "content/post/ten-things-i-wish-i-knew-before-i-started-trading-options.md",
-    "content/post/tastytrade-options.md",
-    "content/post/synthetic-futures-better-than-futures.md",
-    "content/post/supertrend-by-pr-sundar.md",
     "content/post",
     "config.toml",
     "config2 copy.toml",
