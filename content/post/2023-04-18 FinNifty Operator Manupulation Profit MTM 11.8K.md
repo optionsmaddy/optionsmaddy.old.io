@@ -2,9 +2,8 @@
 author: maddy
 date: 2023-04-18T15:01:46+05:30
 lastmod: 2023-04-18T15:42:36+05:30
-title: 2023-04-18 Profit 11.8K MTM Fin-Nifty Operator Manupulation
-title: 2023-04-18 Profit 11.8K MTM Fin-Nifty Operator Manupulation
-description: 🧔MADDY's 💸P&L Statement for  2023-04-18T15:01:46 
+title: 2023-04-18 FinNifty Operator Manupulation Profit MTM 11.8K
+description: 🧔MADDY's 💸P&L Statement for  2023-04-18
 tags:
 - Trade-Diary📗
 - 🧔MADDY
