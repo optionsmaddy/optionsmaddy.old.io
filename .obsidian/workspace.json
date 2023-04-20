@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "9d101e09dc390f3b",
+        "id": "0b41c9ca073d0d7b",
         "type": "tabs",
         "children": [
           {
-            "id": "f7cdb1882f7cfabb",
+            "id": "d29b7388fb4de45a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/post/2023-04-18 Profit 11.8K MTM Fin-Nifty Operator Manupulation.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -96,7 +92,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/post/2023-04-18 Profit 11.8K MTM Fin-Nifty Operator Manupulation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +108,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/post/2023-04-18 Profit 11.8K MTM Fin-Nifty Operator Manupulation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "content/post/2023-04-18 Profit 11.8K MTM Fin-Nifty Operator Manupulation.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -145,16 +137,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f7cdb1882f7cfabb",
+  "active": "d29b7388fb4de45a",
   "lastOpenFiles": [
-    "content/post/2022-04-17 8.5K MTM Profit Calm Day.md",
+    "content/post/2023-04-19 BTST Profit 680.md",
+    "obsidian-files/Templates/_New Note .md",
+    "obsidian-files/Templates/Daily Trade Diary.md",
     "content/post/2023-04-18 Profit 11.8K MTM Fin-Nifty Operator Manupulation.md",
+    "content/post/2022-04-17 8.5K MTM Profit Calm Day.md",
     "content/post/2023-04-18.md",
     "content/post/Untitled.md",
     "content/post/options-book-gdrive.md",
-    "obsidian-files/Templates/Daily Trade Diary.md",
     "obsidian-files/Templates/Daily Template Embed .md",
-    "obsidian-files/Templates/_New Note .md",
     "content/tags.md",
     "obsidian-files/Templates/Trade Daily Diary .md",
     "content/contact.md",
@@ -173,7 +166,6 @@
     "content/post/when-you-are-back-testing-test-it-on-futures.md",
     "content/post/we-are-more-sensitive-to-small-losses-and-gains.md",
     "content/post/vega.md",
-    "content/post/trading-view-hacks.md",
     "content/post",
     "config.toml",
     "config2 copy.toml",

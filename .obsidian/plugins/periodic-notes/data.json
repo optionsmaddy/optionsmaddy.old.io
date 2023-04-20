@@ -4,7 +4,7 @@
   "hasMigratedWeeklyNoteSettings": false,
   "daily": {
     "format": "",
-    "template": "obsidian-files/Templates/Daily Trade Diary.md",
+    "template": "",
     "folder": "content/post",
     "enabled": true
   },
