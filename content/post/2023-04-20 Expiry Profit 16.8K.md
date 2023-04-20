@@ -12,7 +12,7 @@ categories:
 draft: false
 disableComments: false
 ---
-# ₹ 15600/- Profit Realized for 20th Apr Expiry
+# ₹ 16800/- Profit Realized + MTM for 20th Apr Expiry
 
 ![](https://i.imgur.com/2TdZChg.png)
 
@@ -36,9 +36,20 @@ disableComments: false
 ![](https://i.imgur.com/ZcmkQ8S.png)
 
 {{% notice info %}}
-- ==MidPoint is **17650**==
+- MidPoint is **17650**
 - Plan to buy full hedge on Monday.
 {{% /notice %}}
 
+## Post Market Report
+
+### Days History
+
+![](https://i.imgur.com/k9jOGRD.png)
+
+### Positions Final
+
+![](https://i.imgur.com/lEL1EAA.png)
+
+## Sensibull PNL Report
 
 
