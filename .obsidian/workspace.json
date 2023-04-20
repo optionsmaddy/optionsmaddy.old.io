@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/post/2023-04-19 BTST Profit 680.md",
+                "file": "content/post/2023-04-20 Expiry Profit 15.6K.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/post/2023-04-19 BTST Profit 680.md",
+                "file": "content/post/2023-04-20 Expiry Profit 15.6K.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/post/2023-04-19 BTST Profit 680.md",
+                "file": "content/post/2023-04-20 Expiry Profit 15.6K.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/post/2023-04-19 BTST Profit 680.md"
+                "file": "content/post/2023-04-20 Expiry Profit 15.6K.md"
               }
             }
           }
@@ -147,9 +147,10 @@
   },
   "active": "d29b7388fb4de45a",
   "lastOpenFiles": [
+    "content/post/2023-04-19 BTST Profit 680.md",
+    "content/post/2023-04-20 Expiry Profit 15.6K.md",
     "content/post/2023-04-18 FinNifty Operator Manupulation Profit MTM 11.8K.md",
     "content/post/2022-04-17 Calm Day  Profit 8.5K MTM.md",
-    "content/post/2023-04-19 BTST Profit 680.md",
     "obsidian-files/Templates/_New Note .md",
     "obsidian-files/Templates/Daily Trade Diary.md",
     "content/post/2023-04-18.md",
@@ -173,7 +174,6 @@
     "content/post/zero-sum-game.md",
     "content/post/when-you-are-back-testing-test-it-on-futures.md",
     "content/post/we-are-more-sensitive-to-small-losses-and-gains.md",
-    "content/post/vega.md",
     "content/post",
     "config.toml",
     "config2 copy.toml",
