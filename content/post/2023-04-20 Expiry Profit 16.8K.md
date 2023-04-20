@@ -52,4 +52,5 @@ disableComments: false
 
 ## Sensibull PNL Report
 
+![](https://i.imgur.com/3vhh94U.png)
 
