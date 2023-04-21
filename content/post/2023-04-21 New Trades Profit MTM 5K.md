@@ -2,8 +2,7 @@
 author: maddy
 date: 2023-04-21T15:33:10+05:30
 lastmod: 2023-04-21T15:33:28+05:30
-title: 2023-04-21
-title: 2023-04-21
+title: 2023-04-21 New Trades Profit MTM 5K
 description: 🧔MADDY's 💸P&L Statement for  2023-04-21T15:33:10 
 tags:
 - Trade-Diary📗
