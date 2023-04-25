@@ -1,0 +1,25 @@
+---
+author: maddy
+date: 2023-04-24T23:36:51+05:30
+lastmod: 2023-04-24T23:36:51+05:30
+title: 2023-04-24 FinNifty Loss 600 & Profit MTM 4K
+description: 🧔MADDY's 💸P&L Statement for  2023-04-24T23:36:51 
+tags:
+- Trade-Diary📗
+- 🧔MADDY
+categories: 
+- 💸P&L
+draft: false
+disableComments: false
+---
+## Positions
+
+
+![](https://i.imgur.com/ovYkM3F.png)
+
+
+## Verified PnL
+
+![](https://i.imgur.com/CCGA1IQ.png)
+
+

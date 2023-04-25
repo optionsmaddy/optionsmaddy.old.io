@@ -1,5 +1,5 @@
 {
-  "commitMessage": "From Obsidian: {{date}}",
+  "commitMessage": "vault backup: {{date}}",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
   "autoSaveInterval": 0,
   "autoPushInterval": 0,
@@ -26,5 +26,5 @@
   "submoduleRecurseCheckout": false,
   "gitDir": "",
   "showFileMenu": true,
-  "autoCommitMessage": "From Obsidian: {{date}}"
+  "autoCommitMessage": "vault backup: {{date}}"
 }
