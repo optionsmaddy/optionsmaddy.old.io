@@ -12,8 +12,16 @@ categories:
 draft: false
 disableComments: false
 ---
-## Positions
+## Market Positions
 
+![](https://i.imgur.com/CWk6sfY.png)
+
+## Day's History - Finnifty Debacle
+
+![](https://i.imgur.com/P24nSj3.png)
+
+
+## Positions
 
 ![](https://i.imgur.com/ovYkM3F.png)
 

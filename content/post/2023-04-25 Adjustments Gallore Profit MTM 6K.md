@@ -14,15 +14,18 @@ disableComments: false
 ---
 # Markets rallied one way
 
-## Market Positions
+## Positions
 
-![](https://i.imgur.com/CWk6sfY.png)
+- Risk off 17850 & pushed to 17900
+- Pushed up 17950 to 17900 ( as vix collapsed, expecting limited but forward movement. )
+- Pushed up PE to 17550.
 
-## Day's History
+![](https://i.imgur.com/loD8gWb.png)
 
-![](https://i.imgur.com/P24nSj3.png)
 
 ## New Positions
+
+- Took new positions for May 4th Expiry.
 
 ![](https://i.imgur.com/I8liziu.png)
 
