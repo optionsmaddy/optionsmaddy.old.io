@@ -20,14 +20,6 @@ disableComments: false
 
 ![](https://i.imgur.com/P24nSj3.png)
 
+# Verified PnL
 
-## Positions
-
-![](https://i.imgur.com/ovYkM3F.png)
-
-
-## Verified PnL
-
-![](https://i.imgur.com/CCGA1IQ.png)
-
-
+![](https://i.imgur.com/ZVrn3M5.png)
