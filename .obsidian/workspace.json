@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fd1d24789ad1e1c9",
+        "id": "67338c1687845b23",
         "type": "tabs",
         "children": [
           {
-            "id": "440d35b21292b70d",
+            "id": "853521f86d799f56",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/post/2023-04-24 FinNifty Loss 600 & Profit MTM 4K.md",
+                "file": "content/post/2023-04-26.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 219.5
+    "width": 244.5
   },
   "right": {
     "id": "5152024f418cec54",
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/post/2023-04-24 FinNifty Loss 600 & Profit MTM 4K.md",
+                "file": "content/post/2023-04-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/post/2023-04-24 FinNifty Loss 600 & Profit MTM 4K.md",
+                "file": "content/post/2023-04-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/post/2023-04-24 FinNifty Loss 600 & Profit MTM 4K.md"
+                "file": "content/post/2023-04-26.md"
               }
             }
           }
@@ -142,12 +142,14 @@
       "graph:Open graph view": false,
       "command-palette:Open command palette": false,
       "periodic-notes:Open today": false,
-      "templater-obsidian:Templater": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "440d35b21292b70d",
+  "active": "752ebf2089807085",
   "lastOpenFiles": [
+    "content/post/2023-04-26.md",
+    "content/post/2023-04-20 Expiry Profit 16.8K.md",
     "content/post/2023-04-21 New Trades Profit MTM 5K.md",
     "content/post/2023-04-25 Adjustments Gallore Profit MTM 6K.md",
     "content/post/2023-04-24 FinNifty Loss 600 & Profit MTM 4K.md",
@@ -160,7 +162,6 @@
     "obsidian-files/Templates/Embed Youtube Embed .md",
     "obsidian-files/Templates/Write Atomic Essay .md",
     "obsidian-files/Templates/Trade Daily Diary .md",
-    "content/post/2023-04-20 Expiry Profit 16.8K.md",
     "content/post/2023-04-19 BTST Profit 680.md",
     "content/post/2023-04-18 FinNifty Operator Manupulation Profit MTM 11.8K.md",
     "content/post/2022-04-17 Calm Day  Profit 8.5K MTM.md",
