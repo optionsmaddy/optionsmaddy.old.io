@@ -3,7 +3,7 @@ languageCode = 'en-us'
 title = 'OptionsMaddy'
 
 #disqusShortname = 'optionsmaddy'
-googleFonts = ["Indie+Flower", "Readex+Pro:ital,wght@0,100;0,400;0,700;1,400"]
+googleFonts = ["Readex+Pro"]
 
 [params.utterances]
 repo = "optionsmaddy/optionsmaddy.github.io"
@@ -64,7 +64,7 @@ url = "mailto:optionsmaddy@gmail.com"
 #icon = "fa-solid fa-envelope-open-text"
 icon = "fa-solid fa-bell"
 title = "Substack"
-url = "https://substack.com/"
+url = "https://substack.com/optionsmaddy"
 
 [taxonomies]
     category = "categories"
