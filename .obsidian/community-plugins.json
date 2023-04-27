@@ -7,5 +7,6 @@
   "text-extractor",
   "obsidian-imgur-plugin",
   "tag-wrangler",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-languagetool-plugin"
 ]
