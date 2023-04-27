@@ -141,9 +141,9 @@
     "hiddenItems": {
       "graph:Open graph view": false,
       "command-palette:Open command palette": false,
-      "periodic-notes:Open today": false,
       "omnisearch:Omnisearch": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "54fc8e52a889e4c2",
