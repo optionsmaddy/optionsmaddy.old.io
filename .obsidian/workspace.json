@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "67338c1687845b23",
+        "id": "b15e3a4617c96430",
         "type": "tabs",
         "children": [
           {
-            "id": "853521f86d799f56",
+            "id": "54fc8e52a889e4c2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/post/2023-04-26.md",
+                "file": "content/post/2023-04-27.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/post/2023-04-26.md",
+                "file": "content/post/2023-04-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/post/2023-04-26.md",
+                "file": "content/post/2023-04-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/post/2023-04-26.md"
+                "file": "content/post/2023-04-27.md"
               }
             }
           }
@@ -146,8 +146,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "752ebf2089807085",
+  "active": "54fc8e52a889e4c2",
   "lastOpenFiles": [
+    "content/post/2023-04-27.md",
     "content/post/2023-04-26.md",
     "content/post/2023-04-20 Expiry Profit 16.8K.md",
     "content/post/2023-04-21 New Trades Profit MTM 5K.md",
@@ -174,7 +175,6 @@
     "content/about.md",
     "content/post/4-things-to-check-before-option-selling.md",
     "content/unpublished/mds-options-trading-checklist.md",
-    "content/unpublished/mds-options-strategy-2023.md",
     "content/unpublished",
     "content/post",
     "config.toml",

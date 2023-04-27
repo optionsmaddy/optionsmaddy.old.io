@@ -52,7 +52,7 @@ url = "https://www.twitter.com/optionsmaddy"
 
 [[params.socialIcons]]
 icon = "fab fa-youtube"
-title = "twitter"
+title = "Youtube"
 url = "https://www.youtube.com/@optionsmaddy"
 
 [[params.socialIcons]]
@@ -64,7 +64,7 @@ url = "mailto:optionsmaddy@gmail.com"
 #icon = "fa-solid fa-envelope-open-text"
 icon = "fa-solid fa-bell"
 title = "Substack"
-url = "https://substack.com/optionsmaddy"
+url = "https://optionsmaddy.substack.com"
 
 [taxonomies]
     category = "categories"
