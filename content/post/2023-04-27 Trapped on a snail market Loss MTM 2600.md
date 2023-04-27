@@ -37,6 +37,7 @@ disableComments: false
 
 - At one point off time I was up ₹ 1500 in the morning.
 - Closing with ₹ 1500 Loss.
+- Lost approx ₹3000/- due to negligence.
 
 ## Todays Position
 
