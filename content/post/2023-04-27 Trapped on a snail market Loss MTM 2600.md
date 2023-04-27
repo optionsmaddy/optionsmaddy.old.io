@@ -2,7 +2,7 @@
 author: maddy
 date: 2023-04-27T11:17:02+05:30
 lastmod: 2023-04-27T11:17:02+05:30
-title: 2023-04-27
+title: 2023-04-27 Trapped on a snail market Loss MTM 2600
 description: 🧔MADDY's 💸P&L Statement for  2023-04-27T11:17:02 
 tags:
 - Trade-Diary📗
@@ -28,4 +28,22 @@ disableComments: false
 ![](https://i.imgur.com/UEm1tSe.png)
 
 ![](https://i.imgur.com/f3NlzO4.png)
+
+## Trapped me perfectly
+
+![](https://i.imgur.com/aSDuCuj.png)
+
+![](https://i.imgur.com/4dRZL1h.png)
+
+- At one point off time I was up ₹ 1500 in the morning.
+- Closing with ₹ 1500 Loss.
+
+## Todays Position
+
+![](https://i.imgur.com/5DWpN2G.png)
+
+{{% notice warning %}}
+Lesson : Don't keep positions on Monthly Expiry. 
+Exit ASAP & Take position for next Expiry.
+{{% /notice %}}
 
