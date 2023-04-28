@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8cb91b6c2a262f41",
+        "id": "6e48d32e315f5c36",
         "type": "tabs",
         "children": [
           {
-            "id": "5a223b28778378b8",
+            "id": "ddf32aa1200fba2b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/post/2023-04-28 Not the best start for the may Month.md",
+                "file": "content/post/2023-04-28 Big MTM Loss 7140.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/post/2023-04-28 Not the best start for the may Month.md",
+                "file": "content/post/2023-04-28 Big MTM Loss 7140.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/post/2023-04-28 Not the best start for the may Month.md",
+                "file": "content/post/2023-04-28 Big MTM Loss 7140.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/post/2023-04-28 Not the best start for the may Month.md"
+                "file": "content/post/2023-04-28 Big MTM Loss 7140.md"
               }
             }
           }
@@ -146,10 +146,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "5a223b28778378b8",
+  "active": "ddf32aa1200fba2b",
   "lastOpenFiles": [
-    "content/post/2023-04 Month End April Profit and Loss.md",
+    "content/post/2023-04-28 Big MTM Loss 7140.md",
     "content/post/2023-04-28 Not the best start for the may Month.md",
+    "content/post/2023-04 Month End April Profit and Loss.md",
     "content/post/2023-04-27 Trapped on a snail market Loss MTM 2600.md",
     "content/post/2023-04 4th Weekly Profit and Loss Report.md",
     "content/post/zerodha-kite.md",
@@ -174,7 +175,6 @@
     "content/post/2023-04-18.md",
     "content/post/Untitled.md",
     "content/post/options-book-gdrive.md",
-    "content/tags.md",
     "content/unpublished",
     "content/post",
     "config.toml",
