@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "6e48d32e315f5c36",
+        "id": "530fb060535797b7",
         "type": "tabs",
         "children": [
           {
-            "id": "ddf32aa1200fba2b",
+            "id": "e03597c7cc77ad48",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/post/2023-04-28 Big MTM Loss 7140.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -96,7 +92,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/post/2023-04-28 Big MTM Loss 7140.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +108,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/post/2023-04-28 Big MTM Loss 7140.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "content/post/2023-04-28 Big MTM Loss 7140.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -146,8 +138,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "ddf32aa1200fba2b",
+  "active": "e03597c7cc77ad48",
   "lastOpenFiles": [
+    "config.toml",
     "content/post/2023-04-28 Big MTM Loss 7140.md",
     "content/post/2023-04-28 Not the best start for the may Month.md",
     "content/post/2023-04 Month End April Profit and Loss.md",
@@ -174,10 +167,8 @@
     "obsidian-files/Templates/_New Note .md",
     "content/post/2023-04-18.md",
     "content/post/Untitled.md",
-    "content/post/options-book-gdrive.md",
     "content/unpublished",
     "content/post",
-    "config.toml",
     "config2 copy.toml",
     "config2.toml",
     "static/upload",
