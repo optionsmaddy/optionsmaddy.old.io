@@ -11,8 +11,12 @@
             "id": "e03597c7cc77ad48",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "content/post/2023-05-03 Excellent Gap Down Day.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -71,12 +75,20 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "c55dbcc1cabd2709",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 244.5
+    "width": 455.5
   },
   "right": {
     "id": "5152024f418cec54",
@@ -92,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "content/post/2023-05-03 Excellent Gap Down Day.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "content/post/2023-05-03 Excellent Gap Down Day.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "content/post/2023-05-03 Excellent Gap Down Day.md"
+              }
             }
           }
         ],
@@ -140,8 +156,10 @@
   },
   "active": "e03597c7cc77ad48",
   "lastOpenFiles": [
+    "content/post/2023-05-02 Big MTM Loss on the Massive Up Move Loss -15k.md",
+    "content/post/2023-05-03 Excellent Gap Down Day.md",
+    "content/post/2023-04-28 Big MTM Loss on one side move 7k.md",
     "config.toml",
-    "content/post/2023-04-28 Big MTM Loss 7140.md",
     "content/post/2023-04-28 Not the best start for the may Month.md",
     "content/post/2023-04 Month End April Profit and Loss.md",
     "content/post/2023-04-27 Trapped on a snail market Loss MTM 2600.md",
@@ -166,7 +184,6 @@
     "content/post/2022-04-17 Calm Day  Profit 8.5K MTM.md",
     "obsidian-files/Templates/_New Note .md",
     "content/post/2023-04-18.md",
-    "content/post/Untitled.md",
     "content/unpublished",
     "content/post",
     "config2 copy.toml",
