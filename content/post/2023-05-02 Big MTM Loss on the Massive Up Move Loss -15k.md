@@ -2,7 +2,7 @@
 author: maddy
 date: 2023-05-02T23:11:42+05:30
 lastmod: 2023-05-02T23:11:42+05:30
-title: 2023-05-02
+title: 2023-05-02 Big MTM Loss on the Massive Up Move Loss -15k
 description: 🧔MADDY's 💸P&L Statement for  2023-05-02T23:11:42 
 tags:
 - Trade-Diary📗

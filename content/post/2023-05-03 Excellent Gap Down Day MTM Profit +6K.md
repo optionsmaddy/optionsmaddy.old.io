@@ -2,7 +2,7 @@
 author: maddy
 date: 2023-05-03T14:42:14+05:30
 lastmod: 2023-05-03T14:42:14+05:30
-title: 2023-05-03 Excellent Gap Down Day
+title: 2023-05-03 Excellent Gap Down Day MTM Profit +6K
 description: 🧔MADDY's 💸P&L Statement for  2023-05-03T14:42:14 
 tags:
 - Trade-Diary📗
