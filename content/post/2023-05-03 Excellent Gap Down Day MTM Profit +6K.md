@@ -41,3 +41,15 @@ disableComments: false
 - FOMC meeting & many stock results to come, markets should move either way.
 
 ## Overall a very good day no complaints.
+
+- Realized Profit ₹ 5945/-
+- Positional MTM ₹902/-
+- Skipped this expiry positional, may do intraday.
+- Took new positions for 11th May.
+
+### Days History
+![](https://i.imgur.com/V6gbtkp.png)
+
+### Current Position
+
+![](https://i.imgur.com/PWKbOJT.png)
