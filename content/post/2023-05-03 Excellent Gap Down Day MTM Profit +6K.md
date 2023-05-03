@@ -28,6 +28,9 @@ disableComments: false
 
 ### Initial Setup
 
+- First Installment
+- Will add more after FOMC meeting.
+
 ![](https://i.imgur.com/M5tkq1r.png)
 
 #### Features
