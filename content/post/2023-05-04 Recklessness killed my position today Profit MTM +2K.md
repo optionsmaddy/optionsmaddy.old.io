@@ -40,3 +40,4 @@ disableComments: false
 Lesson Learned **Always Keep SL**
 {{% /notice %}}
 
+NB:  Also I couldn't close my CE position. SO God knows how much penalty I would have to pay for that. I had a limit order which never went off and by the time i edit it market closed. 😞 

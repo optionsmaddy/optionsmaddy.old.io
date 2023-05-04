@@ -88,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 226.5
+    "width": 226.5,
+    "collapsed": true
   },
   "right": {
     "id": "5152024f418cec54",
@@ -154,7 +155,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e03597c7cc77ad48",
+  "active": "752ebf2089807085",
   "lastOpenFiles": [
     "content/post/2023-05-03 Excellent Gap Down Day MTM Profit +6K.md",
     "content/post/2023-05-04 Recklessness killed my position today Profit MTM +2K.md",
