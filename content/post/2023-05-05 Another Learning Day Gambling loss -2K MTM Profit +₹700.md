@@ -12,13 +12,7 @@ categories:
 draft: false
 disableComments: false
 ---
-## Current Position
-
-![](https://i.imgur.com/CIgeGCf.png)
-
-## Days History
-
-![](https://i.imgur.com/5lYuIXA.png)
+# Intraday straddle & Intraday buy went wrong on Big Money games
 
 - Today I tried straddle again like yesterdays strangle.
 - Went wrong horribly.
@@ -34,6 +28,15 @@ disableComments: false
 {{% notice warning %}}
 Lesson : Never gamble to recover loss. Sometime it had given big retuns but the right way is better. Slow & study positional is the right way to go.
 {{% /notice %}}
+
+## Current Position
+
+![](https://i.imgur.com/CIgeGCf.png)
+
+## Days History
+
+![](https://i.imgur.com/5lYuIXA.png)
+
 
 # Positional Strategy Size increased
 
