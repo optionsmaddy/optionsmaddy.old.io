@@ -2,7 +2,7 @@
 author: maddy
 date: 2023-05-05T15:30:19+05:30
 lastmod: 2023-05-05T15:30:19+05:30
-title: 2023-05-05
+title: 2023-05-05 Another Learning Day Gambling Loss -₹2K MTM Profit +₹700
 description: 🧔MADDY's 💸P&L Statement for  2023-05-05T15:30:19 
 tags:
 - Trade-Diary📗
@@ -40,6 +40,8 @@ Lesson : Never gamble to recover loss. Sometime it had given big retuns but the 
 - Also took positional positions.
 
 ![](https://i.imgur.com/BqzBFRo.png)
+
+- Expecting a small upmove on Monday.
 
 {{% notice info %}}
 😉 I should pinch myself not to do intraday gambles like this. 
