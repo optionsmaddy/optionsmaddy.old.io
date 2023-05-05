@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/post/2023-05-04 Recklessness killed my position today Profit MTM +2K.md",
+                "file": "content/post/2023-05-05 Another Learning Day Gambling loss -2K MTM Profit +₹700.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/post/2023-05-04 Recklessness killed my position today Profit MTM +2K.md",
+                "file": "content/post/2023-05-05 Another Learning Day Gambling loss -2K MTM Profit +₹700.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/post/2023-05-04 Recklessness killed my position today Profit MTM +2K.md",
+                "file": "content/post/2023-05-05 Another Learning Day Gambling loss -2K MTM Profit +₹700.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/post/2023-05-04 Recklessness killed my position today Profit MTM +2K.md"
+                "file": "content/post/2023-05-05 Another Learning Day Gambling loss -2K MTM Profit +₹700.md"
               }
             }
           }
@@ -155,10 +155,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "752ebf2089807085",
+  "active": "e03597c7cc77ad48",
   "lastOpenFiles": [
-    "content/post/2023-05-03 Excellent Gap Down Day MTM Profit +6K.md",
     "content/post/2023-05-04 Recklessness killed my position today Profit MTM +2K.md",
+    "content/post/2023-05-05 Another Learning Day Gambling loss -2K MTM Profit +₹700.md",
+    "content/post/2023-05-03 Excellent Gap Down Day MTM Profit +6K.md",
     "content/post/2023-05-02 Big MTM Loss on the Massive Up Move Loss -15k.md",
     "content/post/2023-04-28 Big MTM Loss on one side move 7k.md",
     "config.toml",
@@ -184,7 +185,6 @@
     "content/post/2023-04-19 BTST Profit 680.md",
     "content/post/2023-04-18 FinNifty Operator Manupulation Profit MTM 11.8K.md",
     "content/post/2022-04-17 Calm Day  Profit 8.5K MTM.md",
-    "obsidian-files/Templates/_New Note .md",
     "content/unpublished",
     "content/post",
     "config2 copy.toml",
