@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "e9be7af07a4c541a",
@@ -140,11 +140,7 @@
     "hiddenItems": {
       "omnisearch:Omnisearch": false,
       "templater-obsidian:Templater": false,
-      "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "periodic-notes:Open today": false
     }
