@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "2839b0c240777b6f",
+    "id": "536c7cc0ff045a84",
     "type": "split",
     "children": [
       {
-        "id": "530fb060535797b7",
+        "id": "21abe5bc8003ebc0",
         "type": "tabs",
         "children": [
           {
-            "id": "e03597c7cc77ad48",
+            "id": "52507da75670fe46",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/post/2023-05-05 Another Learning Day Gambling loss -2K MTM Profit +₹700.md",
+                "file": "content/post/2023-05-08.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,41 +25,30 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "cf2cd3f07cde1dec",
+    "id": "490ec1d8a022e0fe",
     "type": "split",
     "children": [
       {
-        "id": "7b69a16134a60a43",
+        "id": "68edd6ce75108992",
         "type": "tabs",
         "children": [
           {
-            "id": "752ebf2089807085",
+            "id": "942b940c11f8e834",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTime"
+                "sortOrder": "alphabetical"
               }
             }
           },
           {
-            "id": "12533031d2eb38af",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "72c46f33e4889703",
+            "id": "2b65ab9b42c7b293",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Investments💷/Trade-Diary📗",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,15 +58,7 @@
             }
           },
           {
-            "id": "acf09d24a03598aa",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
-            "id": "c55dbcc1cabd2709",
+            "id": "df1419ab5de0b626",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -88,24 +69,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 226.5,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "5152024f418cec54",
+    "id": "e9be7af07a4c541a",
     "type": "split",
     "children": [
       {
-        "id": "f1436d5ed8d95bd9",
+        "id": "4e487777fe62b3e1",
         "type": "tabs",
         "children": [
           {
-            "id": "7837d48e80229035",
+            "id": "0a02ec58e010d507",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/post/2023-05-05 Another Learning Day Gambling loss -2K MTM Profit +₹700.md",
+                "file": "content/post/2023-05-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,29 +97,39 @@
             }
           },
           {
-            "id": "fec1192e629e1fb2",
+            "id": "b84a1344a2d86cae",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/post/2023-05-05 Another Learning Day Gambling loss -2K MTM Profit +₹700.md",
+                "file": "content/post/2023-05-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "2d2f30f3d5e46433",
+            "id": "5028d5d27cdf7a08",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "98d9495a05d5d8d9",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/post/2023-05-05 Another Learning Day Gambling loss -2K MTM Profit +₹700.md"
+                "file": "content/post/2023-05-08.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -148,48 +138,20 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "graph:Open graph view": false,
-      "command-palette:Open command palette": false,
       "omnisearch:Omnisearch": false,
       "templater-obsidian:Templater": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "e03597c7cc77ad48",
+  "active": "52507da75670fe46",
   "lastOpenFiles": [
-    "content/post/2023-05-04 Recklessness killed my position today Profit MTM +2K.md",
-    "content/post/2023-05-05 Another Learning Day Gambling loss -2K MTM Profit +₹700.md",
-    "content/post/2023-05-03 Excellent Gap Down Day MTM Profit +6K.md",
-    "content/post/2023-05-02 Big MTM Loss on the Massive Up Move Loss -15k.md",
-    "content/post/2023-04-28 Big MTM Loss on one side move 7k.md",
-    "config.toml",
-    "content/post/2023-04-28 Not the best start for the may Month.md",
-    "content/post/2023-04 Month End April Profit and Loss.md",
-    "content/post/2023-04-27 Trapped on a snail market Loss MTM 2600.md",
-    "content/post/2023-04 4th Weekly Profit and Loss Report.md",
-    "content/post/zerodha-kite.md",
-    "content/post/2023-04-26 Boring day with some new positions.md",
-    "content/post/2023-04-20 Expiry Profit 16.8K.md",
-    "content/post/2023-04-21 New Trades Profit MTM 5K.md",
-    "content/post/2023-04-25 Adjustments Gallore Profit MTM 6K.md",
-    "content/post/2023-04-24 FinNifty Loss 600 & Profit MTM 4K.md",
-    "24-04 Monday 05.png",
-    "obsidian-files/Templates/_Daily Trade Diary.md",
-    "content/post/2023-04-21.md",
-    "obsidian-files/Templates/Daily Template Embed .md",
-    "obsidian-files/Templates/Embed GDrv PDF .md",
-    "obsidian-files/Templates/Embed Imgur .md",
-    "obsidian-files/Templates/Embed Youtube Embed .md",
-    "obsidian-files/Templates/Write Atomic Essay .md",
-    "obsidian-files/Templates/Trade Daily Diary .md",
-    "content/post/2023-04-19 BTST Profit 680.md",
-    "content/post/2023-04-18 FinNifty Operator Manupulation Profit MTM 11.8K.md",
-    "content/post/2022-04-17 Calm Day  Profit 8.5K MTM.md",
-    "content/unpublished",
-    "content/post",
-    "config2 copy.toml",
-    "config2.toml",
-    "static/upload",
-    "10-04 Monday 00.png"
+    "08-05 Monday 00.png",
+    "content/post/2023-05-08.md"
   ]
 }
