@@ -14,7 +14,7 @@ disableComments: false
 ---
 # Got Conned SL Hunting From +2500 Profit to -2500 Loss
 
-- Lost potential 5K due to maret manipulation.
+- Lost potential 20,000 due to maret manipulation.
 - Intraday call was right & iwas on profit for most part.
 - I was busy today. Never trade while you are busy.
 - Got conned royaly today by the market.
