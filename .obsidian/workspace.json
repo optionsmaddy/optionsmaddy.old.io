@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fa43ab7f16af8746",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/post/2023-05-10 Closed All Old Positions Profit Realized 11,800.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/post/2023-05-09 -2500 Loss on Finnifty SL Hunting MTM 5K Profit.md",
+                "file": "content/post/2023-05-10 Closed All Old Positions Profit Realized 11,800.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/post/2023-05-09 -2500 Loss on Finnifty SL Hunting MTM 5K Profit.md",
+                "file": "content/post/2023-05-10 Closed All Old Positions Profit Realized 11,800.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/post/2023-05-09 -2500 Loss on Finnifty SL Hunting MTM 5K Profit.md"
+                "file": "content/post/2023-05-10 Closed All Old Positions Profit Realized 11,800.md"
               }
             }
           }
@@ -145,8 +158,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "84da15724847bbae",
+  "active": "fa43ab7f16af8746",
   "lastOpenFiles": [
+    "content/post/2023-05-10 Closed All Old Positions Profit Realized 11,800.md",
     "content/post/2023-05-09 -2500 Loss on Finnifty SL Hunting MTM 5K Profit.md",
     "content/post/2023-05-08 No Adjustments MTM Profit +6987.md",
     "08-05 Monday 00.png"
