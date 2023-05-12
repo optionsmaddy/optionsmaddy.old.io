@@ -34,5 +34,3 @@ disableComments: false
 
 ![](https://i.imgur.com/VGwqx61.png)
 
-
-## 
