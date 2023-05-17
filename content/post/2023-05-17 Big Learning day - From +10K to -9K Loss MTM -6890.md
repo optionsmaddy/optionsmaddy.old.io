@@ -2,7 +2,7 @@
 author: maddy
 date: 2023-05-17T09:20:25+05:30
 lastmod: 2023-05-17T09:20:25+05:30
-title: 2023-05-17
+title: 2023-05-17 Big Learning day - From +10K to -9K Loss MTM -6890
 description: 🧔MADDY's 💸P&L Statement for  2023-05-17T09:20:25 
 tags:
 - Trade-Diary📗
