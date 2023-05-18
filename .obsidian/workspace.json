@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ed1a0d3ff1b0acb8",
+        "id": "9554e58d944912b3",
         "type": "tabs",
         "children": [
           {
-            "id": "6b259e9fba4306e2",
+            "id": "39b3ca7e6a36b853",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -38,7 +38,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "e9be7af07a4c541a",
@@ -146,8 +145,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "6b259e9fba4306e2",
+  "active": "39b3ca7e6a36b853",
   "lastOpenFiles": [
+    "content/post/2023-05-18.md",
     "content/post/2023-05-18 Super Lucky Escape Day Realized Profit +18,010.md",
     "content/post/2023-05-17 Big Learning day - From +10K to -9K Loss MTM -6890.md",
     "content/post/2023-05-16 Held position Profit +7960.md",
