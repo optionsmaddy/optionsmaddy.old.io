@@ -28,16 +28,16 @@ disableComments: false
 - Hopefully tomorrow there will be a gap up & vix up so that I could take that ce sell position.
 - Overall a day where big players lost big money, surviving is success, Hence good day for me. 🙂
 
-![](https://i.imgur.com/PE9HJZ3.jpg)
+![](https://i.imgur.com/PE9HJZ3l.jpg)
 
 
 ### Positions
 
-![](https://i.imgur.com/oPSl6jR.jpg)
+![](https://i.imgur.com/oPSl6jRl.jpg)
 
 ### Executed Orders
 
-![](https://i.imgur.com/8UnkNdw.jpg)
+![](https://i.imgur.com/8UnkNdwl.jpg)
 
 ## Days History
 
