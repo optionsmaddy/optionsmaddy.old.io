@@ -2,7 +2,7 @@
 author: maddy
 date: 2023-05-19T16:06:32+05:30
 lastmod: 2023-05-19T16:06:32+05:30
-title: 2023-05-19 No amount in green is small. Closed positions ( Ratio + Ladder) took new Strangle. Profit +125
+title: 2023-05-19 Closed positions & took new strangle, Realized Profit +125
 description: 🧔MADDY's 💸P&L Statement for  2023-05-19T16:06:32 
 tags:
 - Trade-Diary📗
