@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "09cf9431c84a2ad2",
+        "id": "c3abfeeca0491367",
         "type": "tabs",
         "children": [
           {
-            "id": "ce144ea02f79b7b3",
+            "id": "2f3efc9c61948268",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/post/2023-05-19 Closed positions & took new strangle, Realized Profit +125.md",
+                "file": "content/post/2023-05-22 No risk taken Profit MTM +1102.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/post/2023-05-19 Closed positions & took new strangle, Realized Profit +125.md",
+                "file": "content/post/2023-05-22 No risk taken Profit MTM +1102.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/post/2023-05-19 Closed positions & took new strangle, Realized Profit +125.md",
+                "file": "content/post/2023-05-22 No risk taken Profit MTM +1102.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/post/2023-05-19 Closed positions & took new strangle, Realized Profit +125.md"
+                "file": "content/post/2023-05-22 No risk taken Profit MTM +1102.md"
               }
             }
           }
@@ -145,8 +145,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "ce144ea02f79b7b3",
+  "active": "2f3efc9c61948268",
   "lastOpenFiles": [
+    "content/post/2023-05-22 No risk taken Profit MTM +1102.md",
     "content/post/2023-05-19 Closed positions & took new strangle, Realized Profit +125.md",
     "content/post/2023-05-18 Super Lucky Escape Day Realized Profit +18,010.md",
     "content/post/2023-05-18.md",
