@@ -2,7 +2,7 @@
 author: maddy
 date: 2023-05-22T16:39:09+05:30
 lastmod: 2023-05-22T16:39:09+05:30
-title: 2023-05-22
+title: 2023-05-22 No risk taken Profit MTM +1102
 description: 🧔MADDY's 💸P&L Statement for  2023-05-22T16:39:09 
 tags:
 - Trade-Diary📗
