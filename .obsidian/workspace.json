@@ -11,8 +11,12 @@
             "id": "ee1ca24e5241983f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "content/post/2023-05-22 No risk taken Profit MTM +1,102.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "content/post/2023-05-22 No risk taken Profit MTM +1,102.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "content/post/2023-05-22 No risk taken Profit MTM +1,102.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "content/post/2023-05-22 No risk taken Profit MTM +1,102.md"
+              }
             }
           }
         ]
@@ -141,7 +149,7 @@
   "lastOpenFiles": [
     "content/post/2023-05-24 Good Day Closed All Positions Realized Profit +7,983.md",
     "content/post/2023-05-23 Carried CE Buy Profit +683.md",
-    "content/post/2023-05-22 No risk taken Profit MTM +1102.md",
+    "content/post/2023-05-22 No risk taken Profit MTM +1,102.md",
     "content/post/2023-05-19 Closed positions & took new strangle, Realized Profit +125.md",
     "content/post/2023-05-18 Super Lucky Escape Day Realized Profit +18,010.md",
     "content/post/2023-05-18.md",
