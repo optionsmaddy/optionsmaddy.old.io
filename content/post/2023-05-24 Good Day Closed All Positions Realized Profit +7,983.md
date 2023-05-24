@@ -2,7 +2,7 @@
 author: maddy
 date: 2023-05-24T22:51:55+05:30
 lastmod: 2023-05-24T22:52:18+05:30
-title: 2023-05-24
+title: 2023-05-24 Good Day Closed All Positions Realized Profit +7,983
 description: 🧔MADDY's 💸P&L Statement for  2023-05-24T22:51:55 
 tags:
 - Trade-Diary📗
