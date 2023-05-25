@@ -11,8 +11,12 @@
             "id": "173a160c5c27071e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "content/post/2023-05-25 Lucky Profit & Accumulated NiftyBees Profit +7,301.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/post/2023-05-24 Good Day Closed All Positions Realized Profit +7,983.md",
+                "file": "content/post/2023-05-25 Lucky Profit & Accumulated NiftyBees Profit +7,301.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/post/2023-05-24 Good Day Closed All Positions Realized Profit +7,983.md",
+                "file": "content/post/2023-05-25 Lucky Profit & Accumulated NiftyBees Profit +7,301.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/post/2023-05-24 Good Day Closed All Positions Realized Profit +7,983.md"
+                "file": "content/post/2023-05-25 Lucky Profit & Accumulated NiftyBees Profit +7,301.md"
               }
             }
           }
@@ -141,11 +145,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "942b940c11f8e834",
+  "active": "173a160c5c27071e",
   "lastOpenFiles": [
+    "content/post/2023-05-25 Lucky Profit & Accumulated NiftyBees Profit +7,301.md",
+    "content/post/2023-05-24 Good Day Closed All Positions Realized Profit +7,983.md",
     "content/post/2023-05-23 Carried CE Buy Profit +683.md",
     "content/post/2023-05-19 Closed positions & took new strangle, Realized Profit +125.md",
-    "content/post/2023-05-24 Good Day Closed All Positions Realized Profit +7,983.md",
     "content/post/2023-05-22 No risk taken Profit MTM +1,102.md",
     "content/post/2023-05-18 Super Lucky Escape Day Realized Profit +18,010.md",
     "content/post/2023-05-18.md",
@@ -168,7 +173,6 @@
     "content/post/2023-04-24 FinNifty Loss 600 & Profit MTM +2679.md",
     "content/post/2023-04-21 New Trades Profit MTM +5000.md",
     "content/post/2023-04-20 Expiry Profit +16,800.md",
-    "content/post/2023-04-19 BTST Profit +680.md",
     "08-05 Monday 00.png"
   ]
 }
