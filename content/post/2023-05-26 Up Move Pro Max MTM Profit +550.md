@@ -3,7 +3,7 @@ author: maddy
 date: 2023-05-26T15:49:55+05:30
 lastmod: 2023-05-26T15:49:55+05:30
 title: 2023-05-26 Up Move Pro Max Profit +550
-thumbnail: "https://i.imgur.com/1WCVtAw.png"
+thumbnail: "https://i.imgur.com/EoRhIh5.png"
 description: 🧔MADDY's 💸P&L Statement for  2023-05-26T15:49:55 
 tags:
 - Trade-Diary📗

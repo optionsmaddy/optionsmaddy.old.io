@@ -4,6 +4,7 @@ date: 2023-05-25T19:28:51+05:30
 lastmod: 2023-05-25T19:28:51+05:30
 title: 2023-05-25 Lucky Profit Accumulated NiftyBees +7,301
 description: 🧔MADDY's 💸P&L Statement for  2023-05-25T19:28:51 
+thumbnail: "https://i.imgur.com/D6dRdm2.png"
 tags:
 - Trade-Diary📗
 - 🧔MADDY

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9561c820fbc4e8e6",
+        "id": "5f594270c96c74c9",
         "type": "tabs",
         "children": [
           {
-            "id": "589468050ae22bf4",
+            "id": "b559ceee157245a8",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -81,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "content/post/2023-05-25 Lucky Profit & Accumulated NiftyBees Profit +7,301.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "content/post/2023-05-25 Lucky Profit & Accumulated NiftyBees Profit +7,301.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +120,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "content/post/2023-05-25 Lucky Profit & Accumulated NiftyBees Profit +7,301.md"
+              }
             }
           }
         ]
@@ -137,17 +141,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "589468050ae22bf4",
+  "active": "942b940c11f8e834",
   "lastOpenFiles": [
-    "obsidian-files/Templates/_Daily Trade Diary.md",
-    "content/post/2023-05-25 Lucky Profit & Accumulated NiftyBees Profit +7,301.md",
-    "config.toml",
+    "content/post/2023-05-24 Good Day Closed All Positions Realized Profit +7,983.md",
     "content/post/2023-05-26 Up Move Pro Max MTM Profit +550.md",
+    "content/post/2023-05-25 Lucky Profit & Accumulated NiftyBees Profit +7,301.md",
+    "obsidian-files/Templates/_Daily Trade Diary.md",
+    "config.toml",
     "content/post/2023-05-28 01.md",
     "content/post/2023-05-28 02 test.md",
     "content/post/2023-05-28.md",
     "static/images/nifty_image_small.jpg",
-    "content/post/2023-05-24 Good Day Closed All Positions Realized Profit +7,983.md",
     "content/post/2023-05-23 Carried CE Buy Profit +683.md",
     "content/post/2023-05-19 Closed positions & took new strangle, Realized Profit +125.md",
     "content/post/2023-05-22 No risk taken Profit MTM +1,102.md",
