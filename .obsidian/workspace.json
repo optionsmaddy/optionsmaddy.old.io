@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/post/2023-05-28.md",
+                "file": "content/post/2023-05-28 02 test.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/post/2023-05-28.md",
+                "file": "content/post/2023-05-28 02 test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/post/2023-05-28.md",
+                "file": "content/post/2023-05-28 02 test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/post/2023-05-28.md"
+                "file": "content/post/2023-05-28 02 test.md"
               }
             }
           }
@@ -147,7 +147,8 @@
   },
   "active": "d5c432ffbf535940",
   "lastOpenFiles": [
-    "content/post/2023-05-28.md",
+    "content/post/2023-05-28 01.md",
+    "content/post/2023-05-28 02 test.md",
     "static/images/nifty_image_small.jpg",
     "content/post/2023-05-26 Up Move Pro Max MTM Profit +550.md",
     "content/post/2023-05-25 Lucky Profit & Accumulated NiftyBees Profit +7,301.md",
@@ -173,7 +174,6 @@
     "content/post/2023-04-27 Trapped on a snail market Loss -2600.md",
     "content/post/2023-04-26 Boring day with some new positions Loss -445.md",
     "content/post/2023-04-25 Adjustments Gallore Profit MTM +5,955.md",
-    "content/post/2023-04-24 FinNifty Loss 600 & Profit MTM +2679.md",
     "08-05 Monday 00.png"
   ]
 }
