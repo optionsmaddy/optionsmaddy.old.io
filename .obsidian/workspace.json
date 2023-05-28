@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f1972c9d89cec3a5",
+        "id": "7e44645f300f13d1",
         "type": "tabs",
         "children": [
           {
-            "id": "b2659168810b0d66",
+            "id": "d5c432ffbf535940",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/post/2023-05-26 Up Move Pro Max MTM Profit +550.md",
+                "file": "content/post/2023-05-28.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/post/2023-05-26 Up Move Pro Max MTM Profit +550.md",
+                "file": "content/post/2023-05-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/post/2023-05-26 Up Move Pro Max MTM Profit +550.md",
+                "file": "content/post/2023-05-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/post/2023-05-26 Up Move Pro Max MTM Profit +550.md"
+                "file": "content/post/2023-05-28.md"
               }
             }
           }
@@ -145,8 +145,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b2659168810b0d66",
+  "active": "d5c432ffbf535940",
   "lastOpenFiles": [
+    "content/post/2023-05-28.md",
+    "static/images/nifty_image_small.jpg",
     "content/post/2023-05-26 Up Move Pro Max MTM Profit +550.md",
     "content/post/2023-05-25 Lucky Profit & Accumulated NiftyBees Profit +7,301.md",
     "content/post/2023-05-24 Good Day Closed All Positions Realized Profit +7,983.md",
@@ -172,7 +174,6 @@
     "content/post/2023-04-26 Boring day with some new positions Loss -445.md",
     "content/post/2023-04-25 Adjustments Gallore Profit MTM +5,955.md",
     "content/post/2023-04-24 FinNifty Loss 600 & Profit MTM +2679.md",
-    "content/post/2023-04-21 New Trades Profit MTM +5000.md",
     "08-05 Monday 00.png"
   ]
 }
