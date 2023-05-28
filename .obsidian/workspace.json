@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ecb2bdce581d8154",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/post/2023-05-28.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -145,11 +158,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d5c432ffbf535940",
+  "active": "ecb2bdce581d8154",
   "lastOpenFiles": [
     "content/post/2023-05-28 02 test.md",
-    "content/post/2023-05-28.md",
     "content/post/2023-05-28 01.md",
+    "content/post/2023-05-28.md",
     "static/images/nifty_image_small.jpg",
     "content/post/2023-05-26 Up Move Pro Max MTM Profit +550.md",
     "content/post/2023-05-25 Lucky Profit & Accumulated NiftyBees Profit +7,301.md",
