@@ -11,8 +11,12 @@
             "id": "b559ceee157245a8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "content/post/2023-05-29 Held Losing Position Loss -4,092.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/post/2023-05-25 Lucky Profit & Accumulated NiftyBees Profit +7,301.md",
+                "file": "content/post/2023-05-29 Held Losing Position Loss -4,092.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/post/2023-05-25 Lucky Profit & Accumulated NiftyBees Profit +7,301.md",
+                "file": "content/post/2023-05-29 Held Losing Position Loss -4,092.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/post/2023-05-25 Lucky Profit & Accumulated NiftyBees Profit +7,301.md"
+                "file": "content/post/2023-05-29 Held Losing Position Loss -4,092.md"
               }
             }
           }
@@ -141,8 +145,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "942b940c11f8e834",
+  "active": "b559ceee157245a8",
   "lastOpenFiles": [
+    "content/post/2023-05-29 Held Losing Position Loss -4,092.md",
     "content/post/2023-05-24 Good Day Closed All Positions Realized Profit +7,983.md",
     "content/post/2023-05-26 Up Move Pro Max MTM Profit +550.md",
     "content/post/2023-05-25 Lucky Profit & Accumulated NiftyBees Profit +7,301.md",
@@ -170,7 +175,6 @@
     "content/post/2023-05-02 Big MTM Loss on the Massive Up Move Loss -14,982.md",
     "content/post/2023-04-28 Not the best start for the may Month Loss -1,987.md",
     "content/post/2023-04-28 Big MTM Loss on one side move -7,140.md",
-    "content/post/2023-04-27 Trapped on a snail market Loss -2600.md",
     "08-05 Monday 00.png"
   ]
 }
