@@ -3,7 +3,8 @@ author: maddy
 date: 2023-05-19T16:06:32+05:30
 lastmod: 2023-05-19T16:06:32+05:30
 title: 2023-05-19 Closed positions & took new strangle, Realized Profit +125
-description: 🧔MADDY's 💸P&L Statement for  2023-05-19T16:06:32 
+description: 🧔MADDY's 💸P&L Statement for  2023-05-19T16:06:32
+thumbnail: "https://i.imgur.com/UJQfykc.png"
 tags:
 - Trade-Diary📗
 - 🧔MADDY

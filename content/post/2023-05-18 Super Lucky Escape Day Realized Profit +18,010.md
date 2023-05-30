@@ -3,7 +3,8 @@ author: maddy
 date: 2023-05-18T18:44:19+05:30
 lastmod: 2023-05-18T19:32:38+05:30
 title: 2023-05-18 Super Lucky Escape Day Realized Profit +18,010
-description: 🧔MADDY's 💸P&L Statement for  2023-05-18T18:44:19 
+description: 🧔MADDY's 💸P&L Statement for  2023-05-18T18:44:19
+
 tags:
 - Trade-Diary📗
 - 🧔MADDY
