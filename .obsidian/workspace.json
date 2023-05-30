@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "5f594270c96c74c9",
+        "id": "6d8c755b6caeed2e",
         "type": "tabs",
         "children": [
           {
-            "id": "b559ceee157245a8",
+            "id": "fb9e72b1940f24f9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/post/2023-05-29 Held Losing Position Loss -4,092.md",
+                "file": "content/post/2023-05-30 Held Losing Position MTM Loss -6,947.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8ae029669beb756d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/post/2023-05-30 Held Losing Position MTM Loss -6,947.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/post/2023-05-29 Held Losing Position Loss -4,092.md",
+                "file": "content/post/2023-05-30 Held Losing Position MTM Loss -6,947.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/post/2023-05-29 Held Losing Position Loss -4,092.md",
+                "file": "content/post/2023-05-30 Held Losing Position MTM Loss -6,947.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/post/2023-05-29 Held Losing Position Loss -4,092.md"
+                "file": "content/post/2023-05-30 Held Losing Position MTM Loss -6,947.md"
               }
             }
           }
@@ -145,12 +158,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b559ceee157245a8",
+  "active": "8ae029669beb756d",
   "lastOpenFiles": [
-    "content/post/2023-05-29 Held Losing Position Loss -4,092.md",
-    "content/post/2023-05-24 Good Day Closed All Positions Realized Profit +7,983.md",
-    "content/post/2023-05-26 Up Move Pro Max MTM Profit +550.md",
+    "content/post/2023-05-22 No risk taken Profit MTM +1,102.md",
     "content/post/2023-05-25 Lucky Profit & Accumulated NiftyBees Profit +7,301.md",
+    "content/post/2023-05-26 Up Move Pro Max MTM Profit +550.md",
+    "content/post/2023-05-24 Good Day Closed All Positions Realized Profit +7,983.md",
+    "content/post/2023-05-29 Held Losing Position Loss -4,092.md",
+    "content/post/2023-05-30 Held Losing Position MTM Loss -6,947.md",
     "obsidian-files/Templates/_Daily Trade Diary.md",
     "config.toml",
     "content/post/2023-05-28 01.md",
@@ -159,7 +174,6 @@
     "static/images/nifty_image_small.jpg",
     "content/post/2023-05-23 Carried CE Buy Profit +683.md",
     "content/post/2023-05-19 Closed positions & took new strangle, Realized Profit +125.md",
-    "content/post/2023-05-22 No risk taken Profit MTM +1,102.md",
     "content/post/2023-05-18 Super Lucky Escape Day Realized Profit +18,010.md",
     "content/post/2023-05-18.md",
     "content/post/2023-05-17 Big Learning day - From +10K to -9K Loss MTM -6890.md",
@@ -174,7 +188,6 @@
     "content/post/2023-05-03 Excellent Gap Down Day MTM Profit +5945.md",
     "content/post/2023-05-02 Big MTM Loss on the Massive Up Move Loss -14,982.md",
     "content/post/2023-04-28 Not the best start for the may Month Loss -1,987.md",
-    "content/post/2023-04-28 Big MTM Loss on one side move -7,140.md",
     "08-05 Monday 00.png"
   ]
 }
