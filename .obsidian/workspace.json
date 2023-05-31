@@ -11,8 +11,12 @@
             "id": "cd5e7687e7492339",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "content/post/2023-05-31 Held Gaining Position Profit +4625.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/post/2023-05-18 Super Lucky Escape Day Realized Profit +18,010.md",
+                "file": "content/post/2023-05-31 Held Gaining Position Profit +4625.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/post/2023-05-18 Super Lucky Escape Day Realized Profit +18,010.md",
+                "file": "content/post/2023-05-31 Held Gaining Position Profit +4625.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/post/2023-05-18 Super Lucky Escape Day Realized Profit +18,010.md"
+                "file": "content/post/2023-05-31 Held Gaining Position Profit +4625.md"
               }
             }
           }
@@ -141,8 +145,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "942b940c11f8e834",
+  "active": "cd5e7687e7492339",
   "lastOpenFiles": [
+    "content/post/2023-05-31 Held Gaining Position Profit +4625.md",
     "content/post/2023-05-19 Closed positions & took new strangle, Realized Profit +125.md",
     "content/post/2023-05-23 Carried CE Buy Profit +683.md",
     "content/post/2023-05-29 Held Losing Position Loss -4,092.md",
@@ -170,7 +175,6 @@
     "content/post/2023-05-04 Recklessness killed my position today Profit +2127.md",
     "content/post/2023-05-03 Excellent Gap Down Day MTM Profit +5945.md",
     "content/post/2023-05-02 Big MTM Loss on the Massive Up Move Loss -14,982.md",
-    "content/post/2023-04-28 Not the best start for the may Month Loss -1,987.md",
     "08-05 Monday 00.png"
   ]
 }
