@@ -21,7 +21,7 @@ disableComments: false
 - But good Profit day.
 - At one point of time for this position I was ₹-9K loss.
 - Today same position exited on **₹+8195**/- 😁
-- Good decision [Yesterday](<2023-05-31%20Held%20Gaining%20Position%20Profit%20+4625.md>)
+- Good decision [Yesterday](<https://optionsmaddy.github.io/post/2023-05-31-held-gaining-position-profit-+4625/>)
 
 ## Morning
 
