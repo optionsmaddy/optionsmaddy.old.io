@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "14e52efc60ba8895",
+        "id": "53f5034c77c87da4",
         "type": "tabs",
         "children": [
           {
-            "id": "9f6c90167617d14c",
+            "id": "ba96e15e26d6dab4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/post/2023-06-01 Tricky Executions Expiry Profit Realized +7,727.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "85c11155721a7f3b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/post/2023-05-31 Held Gaining Position Profit +4625.md",
+                "file": "content/post/2023-06-02 Good Decay & Held Naked Gaining Position Profit +3447.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/post/2023-06-01 Tricky Executions Expiry Profit Realized +7,727.md",
+                "file": "content/post/2023-06-02 Good Decay & Held Naked Gaining Position Profit +3447.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/post/2023-06-01 Tricky Executions Expiry Profit Realized +7,727.md",
+                "file": "content/post/2023-06-02 Good Decay & Held Naked Gaining Position Profit +3447.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/post/2023-06-01 Tricky Executions Expiry Profit Realized +7,727.md"
+                "file": "content/post/2023-06-02 Good Decay & Held Naked Gaining Position Profit +3447.md"
               }
             }
           }
@@ -150,17 +138,18 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "omnisearch:Omnisearch": false,
       "templater-obsidian:Templater": false,
       "graph:Open graph view": false,
       "command-palette:Open command palette": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "9f6c90167617d14c",
+  "active": "ba96e15e26d6dab4",
   "lastOpenFiles": [
-    "content/post/2023-05-31 Held Gaining Position Profit +4625.md",
+    "content/post/2023-06-02 Good Decay & Held Naked Gaining Position Profit +3447.md",
     "content/post/2023-06-01 Tricky Executions Expiry Profit Realized +7,727.md",
+    "content/post/2023-05-31 Held Gaining Position Profit +4625.md",
     "content/post/Monthly PnL May 2023 Many Mistakes Made a +3.6% Profit May.md",
     "config.toml",
     "content/post/().md",
