@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "53f5034c77c87da4",
+        "id": "c7491c3894b4dcdf",
         "type": "tabs",
         "children": [
           {
-            "id": "ba96e15e26d6dab4",
+            "id": "07a9cf066c4fa713",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -141,11 +141,11 @@
       "templater-obsidian:Templater": false,
       "graph:Open graph view": false,
       "command-palette:Open command palette": false,
-      "periodic-notes:Open today": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "ba96e15e26d6dab4",
+  "active": "07a9cf066c4fa713",
   "lastOpenFiles": [
     "content/post/2023-06-02 Good Decay & Held Naked Gaining Position Profit +3447.md",
     "content/post/2023-06-01 Tricky Executions Expiry Profit Realized +7,727.md",
