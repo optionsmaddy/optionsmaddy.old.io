@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/post/2023-05-29 Held Losing Position Loss -4,092.md",
+                "file": "config.toml",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/post/2023-05-29 Held Losing Position Loss -4,092.md",
+                "file": "config.toml",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/post/2023-05-29 Held Losing Position Loss -4,092.md",
+                "file": "config.toml",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/post/2023-05-29 Held Losing Position Loss -4,092.md"
+                "file": "config.toml"
               }
             }
           }
@@ -147,9 +147,9 @@
   },
   "active": "ef8903e71c2af70c",
   "lastOpenFiles": [
+    "content/post/2023-05-29 Held Losing Position Loss -4,092.md",
     "content/post/2023-05-17 Big Learning day - From +10K to -9K Loss MTM -6890.md",
     "content/post/2023-05-25 Lucky Profit & Accumulated NiftyBees Profit +7,301.md",
-    "content/post/2023-05-29 Held Losing Position Loss -4,092.md",
     "content/post/2023-05-30 Held Losing Position MTM Loss -6,947.md",
     "content/post/2023-05-24 Good Day Closed All Positions Realized Profit +7,983.md",
     "content/post/2023-05-26 Up Move Pro Max MTM Profit +550.md",
