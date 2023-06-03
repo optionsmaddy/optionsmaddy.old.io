@@ -2,14 +2,14 @@ baseURL = 'https://optionsmaddy.github.io/'
 languageCode = 'en-us'
 title = 'OptionsMaddy'
 
-#disqusShortname = 'optionsmaddy'
+disqusShortname = 'optionsmaddy'
 googleFonts = ["Readex+Pro"]
 
-[params.utterances]
-repo = "optionsmaddy/optionsmaddy.github.io"
-issueTerm = "pathname"
-theme= "github-light"
-label = "maddyoptions-comment"
+# [params.utterances]
+# repo = "optionsmaddy/optionsmaddy.github.io"
+# issueTerm = "pathname"
+# theme= "github-light"
+# label = "maddyoptions-comment"
 
 [params]
 title = "OptionsMaddy"
@@ -115,12 +115,12 @@ pygmentsCodefencesGuessSyntax = true
   url = "/tags/"
 
 
-  #[[menu.main]]
-  #name = "🗂️Categories"
-  #weight = 320
-  #identifier = "categories"
-  #url = "/categories/"
-  #parent = "find"
+  [[menu.main]]
+  name = "🗂️Categories"
+  weight = 320
+  identifier = "categories"
+  url = "/categories/"
+  parent = "find"
 
   #[[menu.main]]
   #name = "💥Portfolio"
