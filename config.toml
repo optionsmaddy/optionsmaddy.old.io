@@ -93,7 +93,6 @@ pygmentsCodefencesGuessSyntax = true
   weight = 80
 
 
-
 [menu]
 
   [[menu.main]]
@@ -109,18 +108,16 @@ pygmentsCodefencesGuessSyntax = true
   url = "/post/"
 
   [[menu.main]]
-  name = "Tags"
+  name = "🏷️Tags"
   weight = 300
   identifier = "tags"
   url = "/tags/"
 
-
   [[menu.main]]
   name = "🗂️Categories"
-  weight = 320
+  weight = 300
   identifier = "categories"
   url = "/categories/"
-  parent = "find"
 
   #[[menu.main]]
   #name = "💥Portfolio"
