@@ -3,7 +3,6 @@ author: maddy
 date: 2023-06-02T10:22:45+05:30
 lastmod: 2023-06-02T10:22:45+05:30
 title: Monthly PnL May 2023 Many Mistakes Made a +3.6% Profit May
-thumbnail: "https://i.imgur.com/yC29Cqt.png"
 description: 🧔MADDY's 💸P&L Statement Monthly
 tags:
 - Trade-Diary📗

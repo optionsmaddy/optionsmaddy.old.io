@@ -3,7 +3,6 @@ author: maddy
 date: 2023-05-31T15:40:30+05:30
 lastmod: 2023-05-31T15:40:30+05:30
 title: 2023-05-31 Held Gaining Position Profit +4625
-thumbnail: "https://i.imgur.com/cu5C2eX.png"
 description: 🧔MADDY's 💸P&L Statement for  2023-05-31T15:40:30 
 tags:
 - Trade-Diary📗

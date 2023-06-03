@@ -3,7 +3,6 @@ author: maddy
 date: 2023-05-30T19:29:59+05:30
 lastmod: 2023-05-30T19:29:59+05:30
 title: 2023-05-30 Held Losing Position MTM Loss -6,947
-thumbnail: "https://i.imgur.com/qtca5se.png"
 description: 🧔MADDY's 💸P&L Statement for  2023-05-30T19:29:59 
 tags:
 - Trade-Diary📗

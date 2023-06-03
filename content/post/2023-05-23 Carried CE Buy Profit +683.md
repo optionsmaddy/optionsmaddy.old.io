@@ -4,7 +4,6 @@ date: 2023-05-23T22:47:33+05:30
 lastmod: 2023-05-23T22:47:33+05:30
 title: 2023-05-23 Carried CE Buy Profit +683
 description: 🧔MADDY's 💸P&L Statement for  2023-05-23T22:47:33
-thumbnail: "https://i.imgur.com/dxFS6gG.png"
 tags:
 - Trade-Diary📗
 - 🧔MADDY

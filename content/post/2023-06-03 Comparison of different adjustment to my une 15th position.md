@@ -3,7 +3,6 @@ author: maddy
 date: 2023-06-03T10:55:11+05:30
 lastmod: 2023-06-03T10:55:11+05:30
 title: 2023-06-03 Comparison of different adjustment to my position
-thumbnail: ""
 description: 🧔MADDY's 💸P&L Statement for  2023-06-03T10:55:11 
 tags:
 - Investments💷/Options-Trading🎛️ 

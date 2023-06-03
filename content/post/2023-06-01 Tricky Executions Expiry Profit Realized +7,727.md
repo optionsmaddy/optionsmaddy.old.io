@@ -3,7 +3,6 @@ author: maddy
 date: 2023-06-01T15:39:10+05:30
 lastmod: 2023-06-01T15:39:10+05:30
 title: 2023-06-01 Tricky Executions Expiry Profit Realized +7,727
-thumbnail: "https://i.imgur.com/HorgIWy.png"
 description: 🧔MADDY's 💸P&L Statement for  2023-06-01T15:39:10 
 tags:
 - Trade-Diary📗

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0889017714684a1f",
+        "id": "0a87c860cc491de0",
         "type": "tabs",
         "children": [
           {
-            "id": "16a725b555a4cd88",
+            "id": "ef8903e71c2af70c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "config.toml",
+                "file": "content/post/2023-05-29 Held Losing Position Loss -4,092.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "config.toml",
+                "file": "content/post/2023-05-29 Held Losing Position Loss -4,092.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "config.toml",
+                "file": "content/post/2023-05-29 Held Losing Position Loss -4,092.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "config.toml"
+                "file": "content/post/2023-05-29 Held Losing Position Loss -4,092.md"
               }
             }
           }
@@ -145,36 +145,35 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "16a725b555a4cd88",
+  "active": "ef8903e71c2af70c",
   "lastOpenFiles": [
-    "content/post/2023-06-03 Comparison of different adjustment to my une 15th position.md",
-    "content/post/2023-06-02 Good Decay & Held Naked Gaining Position Profit +3447.md",
-    "content/post/2023-06-01 Tricky Executions Expiry Profit Realized +7,727.md",
-    "content/post/2023-05-31 Held Gaining Position Profit +4625.md",
-    "content/post/Monthly PnL May 2023 Many Mistakes Made a +3.6% Profit May.md",
-    "config.toml",
-    "content/post/().md",
-    "content/post/2023-05-19 Closed positions & took new strangle, Realized Profit +125.md",
-    "content/post/2023-05-23 Carried CE Buy Profit +683.md",
+    "content/post/2023-05-17 Big Learning day - From +10K to -9K Loss MTM -6890.md",
+    "content/post/2023-05-25 Lucky Profit & Accumulated NiftyBees Profit +7,301.md",
     "content/post/2023-05-29 Held Losing Position Loss -4,092.md",
     "content/post/2023-05-30 Held Losing Position MTM Loss -6,947.md",
-    "content/post/2023-05-22 No risk taken Profit MTM +1,102.md",
-    "content/post/2023-05-25 Lucky Profit & Accumulated NiftyBees Profit +7,301.md",
-    "content/post/2023-05-26 Up Move Pro Max MTM Profit +550.md",
     "content/post/2023-05-24 Good Day Closed All Positions Realized Profit +7,983.md",
+    "content/post/2023-05-26 Up Move Pro Max MTM Profit +550.md",
+    "content/post/2023-05-22 No risk taken Profit MTM +1,102.md",
+    "content/post/2023-05-23 Carried CE Buy Profit +683.md",
+    "content/post/2023-05-19 Closed positions & took new strangle, Realized Profit +125.md",
+    "content/post/2023-05-18 Super Lucky Escape Day Realized Profit +18,010.md",
+    "content/post/Monthly PnL May 2023 Many Mistakes Made a +3.6% Profit May.md",
+    "content/post/2023-05-31 Held Gaining Position Profit +4625.md",
+    "content/post/2023-06-01 Tricky Executions Expiry Profit Realized +7,727.md",
+    "content/post/2023-06-02 Good Decay & Held Naked Gaining Position Profit +3447.md",
+    "content/post/2023-06-03 Comparison of different adjustment to my une 15th position.md",
+    "config.toml",
+    "content/post/().md",
     "obsidian-files/Templates/_Daily Trade Diary.md",
     "content/post/2023-05-28 01.md",
     "content/post/2023-05-28 02 test.md",
     "content/post/2023-05-28.md",
     "static/images/nifty_image_small.jpg",
-    "content/post/2023-05-18 Super Lucky Escape Day Realized Profit +18,010.md",
     "content/post/2023-05-18.md",
-    "content/post/2023-05-17 Big Learning day - From +10K to -9K Loss MTM -6890.md",
     "content/post/2023-05-16 Held position Profit +7960.md",
     "content/post/2023-05-12 Before Karnataka Election Result Hedged Profit +5230.md",
     "content/post/2023-05-11 No Expiry Participation MTM Profit +3000.md",
     "content/post/2023-05-10 Closed All Old Positions Profit Realized +11,800.md",
-    "content/post/2023-05-09 -2500 Loss on Finnifty SL Hunting MTM +5000.md",
     "08-05 Monday 00.png"
   ]
 }
