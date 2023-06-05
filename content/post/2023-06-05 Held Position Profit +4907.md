@@ -17,13 +17,14 @@ disableComments: false
 
 ### Morning Opening
 
-![](https://i.imgur.com/eTbRVvZ.png)
+![](https://i.imgur.com/kYk8OJw.png)
+
 
 ### Closing
 
 ![](https://i.imgur.com/Tz26M88.png)
 
-# Nifty Index
+# Nifty Index Closing
 
 ![](https://i.imgur.com/yFsWqSO.png)
 
