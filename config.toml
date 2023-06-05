@@ -114,7 +114,7 @@ pygmentsCodefencesGuessSyntax = true
   url = "/tags/"
 
   [[menu.main]]
-  name = "🗂️Categories"
+  name = "Categories"
   weight = 300
   identifier = "categories"
   url = "/categories/"

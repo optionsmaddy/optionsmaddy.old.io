@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1a99aa347a9e0739",
+        "id": "1e778751332b5946",
         "type": "tabs",
         "children": [
           {
-            "id": "07c7fa67ecc5db40",
+            "id": "2ceaaccd7d314457",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "config.toml",
+                "file": "content/post/2023-05 Monthly Realized PnL +3.6% Profit May.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "config.toml",
+                "file": "content/post/2023-05 Monthly Realized PnL +3.6% Profit May.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "config.toml",
+                "file": "content/post/2023-05 Monthly Realized PnL +3.6% Profit May.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "config.toml"
+                "file": "content/post/2023-05 Monthly Realized PnL +3.6% Profit May.md"
               }
             }
           }
@@ -145,8 +145,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "07c7fa67ecc5db40",
+  "active": "2ceaaccd7d314457",
   "lastOpenFiles": [
+    "config.toml",
     "content/post/2023-05 Monthly Realized PnL +3.6% Profit May.md",
     "content/post/2023-05-22 No risk taken Profit MTM +1,102.md",
     "content/post/2023-05-26 Up Move Pro Max MTM Profit +550.md",
@@ -168,14 +169,12 @@
     "content/post/2023-05-18 Super Lucky Escape Day Realized Profit +18,010.md",
     "content/post/2023-05-31 Held Gaining Position Profit +4625.md",
     "content/post/2023-06-01 Tricky Executions Expiry Profit Realized +7,727.md",
-    "config.toml",
     "content/post/().md",
     "obsidian-files/Templates/_Daily Trade Diary.md",
     "content/post/2023-05-28 01.md",
     "content/post/2023-05-28 02 test.md",
     "content/post/2023-05-28.md",
     "static/images/nifty_image_small.jpg",
-    "content/post/2023-05-18.md",
     "08-05 Monday 00.png"
   ]
 }
