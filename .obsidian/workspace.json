@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/post/2023-05 Monthly Realized PnL +3.6% Profit May.md",
+                "file": "config.toml",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/post/2023-05 Monthly Realized PnL +3.6% Profit May.md",
+                "file": "config.toml",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/post/2023-05 Monthly Realized PnL +3.6% Profit May.md",
+                "file": "config.toml",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/post/2023-05 Monthly Realized PnL +3.6% Profit May.md"
+                "file": "config.toml"
               }
             }
           }
@@ -147,12 +147,12 @@
   },
   "active": "07c7fa67ecc5db40",
   "lastOpenFiles": [
+    "content/post/2023-05 Monthly Realized PnL +3.6% Profit May.md",
     "content/post/2023-05-22 No risk taken Profit MTM +1,102.md",
     "content/post/2023-05-26 Up Move Pro Max MTM Profit +550.md",
     "content/post/2023-05-24 Good Day Closed All Positions Realized Profit +7,983.md",
     "content/post/2023-05-30 Held Losing Position MTM Loss -6,947.md",
     "content/post/2023-05-29 Held Losing Position MTM Loss -4,092.md",
-    "content/post/2023-05 Monthly Realized PnL +3.6% Profit May.md",
     "content/post/2023-06-05 Held Position MTM Profit +4907.md",
     "content/unpublished/mds-options-trading-checklist.md",
     "Testing Obsidian Plugin 1.md",
