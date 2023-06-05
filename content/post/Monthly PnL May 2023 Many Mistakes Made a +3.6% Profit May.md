@@ -17,11 +17,11 @@ disableComments: false
 
 - Cannot say it was my worst month but many mistakes were done.
 - Most mistakes were intraday buying mistakes.
-- Hence I have reduced buying & stoped buying on most sideways days.
+- Hence I have reduced buying & stop buying on most sideways days.
 
 ## Profit & Loss
 
-- Total Profit for May positions : **₹ 12639/-**
+- Total Profit for May positions : **₹ 12,639/-**
 - Biggest Lesson : Loss on option buying debacle where I didn't honored stoploss & compromised my discipline.
 - Biggest Loss : ₹ -22,621/- on one way move.
 
@@ -29,13 +29,8 @@ disableComments: false
 
 ![](https://i.imgur.com/yC29Cqt.png)
 
-- [Zerodha Verified Monthly PnL Link 0️⃣](https://console.zerodha.com/verified/8b6d3ab5) 
-- [Sensibull Verified Daily MTM Link 🐄](https://web.sensibull.com/verified-pnl/oldfashioned-lime)
-
-- [Zerodha Verified Monthly PnL Link 0️⃣](<https://console.zerodha.com/verified/8b6d3ab5>) 
-- [Sensibull Verified Daily MTM Link 🐄](<https://web.sensibull.com/verified-pnl/oldfashioned-lime>)
-
-https://web.sensibull.com/verified-pnl/oldfashioned-lime
-https://console.zerodha.com/verified/8b6d3ab5
-
 ***Lessons Learned & Hope the best for June Month***
+
+[2023-05-26 Up Move Pro Max MTM Profit +550](2023-05-26%20Up%20Move%20Pro%20Max%20MTM%20Profit%20+550.md)
+
+[2023-05-22 No risk taken Profit MTM +1,102](<2023-05-22%20No%20risk%20taken%20Profit%20MTM%20+1,102.md>)
