@@ -32,4 +32,10 @@ disableComments: false
 - [Zerodha Verified Monthly PnL Link 0️⃣](https://console.zerodha.com/verified/8b6d3ab5) 
 - [Sensibull Verified Daily MTM Link 🐄](https://web.sensibull.com/verified-pnl/oldfashioned-lime)
 
+- [Zerodha Verified Monthly PnL Link 0️⃣](<https://console.zerodha.com/verified/8b6d3ab5>) 
+- [Sensibull Verified Daily MTM Link 🐄](<https://web.sensibull.com/verified-pnl/oldfashioned-lime>)
+
+https://web.sensibull.com/verified-pnl/oldfashioned-lime
+https://console.zerodha.com/verified/8b6d3ab5
+
 ***Lessons Learned & Hope the best for June Month***
