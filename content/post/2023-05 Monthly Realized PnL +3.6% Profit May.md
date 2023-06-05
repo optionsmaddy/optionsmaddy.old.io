@@ -35,5 +35,5 @@ disableComments: false
 - External Link ( Sensibull Verified PnL ) : https://web.sensibull.com/verified-pnl/oldfashioned-lime
 
 - Internal Link (Last Week May) : [2023-05-24 Good Day Closed All Positions Realized Profit +7,983](</post/2023-05-24-Good-Day-Closed-All-Positions-Realized-Profit-+7,983>)
-- Internal Link (Last Position May) : [2023-06-01 Tricky Executions Expiry Profit Realized +7,727](<post/2023-06-01-Tricky-Executions-Expiry-Profit-Realized-+7,727>)
+- Internal Link (Last Position May) : [2023-06-01 tricky executions expiry profit realized +7,727](</post/2023-06-01-tricky-executions-expiry-profit-realized-+7,727>)
 
