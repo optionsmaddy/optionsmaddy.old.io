@@ -23,6 +23,6 @@ disableComments: false
 
 ## Obsidian Link
 
-- A Link From Obsidian : [2023-05 Monthly PnL +3.6% Profit May](2023-05%20Monthly%20PnL%20+3.6%%20Profit%20May.md)
+- A Link From Obsidian : [2023-05-29 Held Losing Position Loss -4,092](2023-05-29%20Held%20Losing%20Position%20Loss%20-4,092.md)
 
 
