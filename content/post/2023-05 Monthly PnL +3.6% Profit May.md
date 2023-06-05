@@ -2,7 +2,7 @@
 author: maddy
 date: 2023-06-02T10:22:45+05:30
 lastmod: 2023-06-02T10:22:45+05:30
-title: Monthly PnL May 2023 Many Mistakes Made a +3.6% Profit May
+title: 2023-05 Monthly PnL +3.6% Profit May
 description: 🧔MADDY's 💸P&L Statement Monthly
 tags:
 - Trade-Diary📗
@@ -31,6 +31,9 @@ disableComments: false
 
 ***Lessons Learned & Hope the best for June Month***
 
-[2023-05-26 Up Move Pro Max MTM Profit +550](2023-05-26%20Up%20Move%20Pro%20Max%20MTM%20Profit%20+550.md)
+- External Link ( Zerodha Verified PnL ) :  https://console.zerodha.com/verified/8b6d3ab5
+- External Link ( Sensibull Verified PnL ) : https://web.sensibull.com/verified-pnl/oldfashioned-lime
 
-[2023-05-22 No risk taken Profit MTM +1,102](<2023-05-22%20No%20risk%20taken%20Profit%20MTM%20+1,102.md>)
+- Internal Link (Last Week May) : [2023-05-24 Good Day Closed All Positions Realized Profit +7,983](<2023-05-24%20Good%20Day%20Closed%20All%20Positions%20Realized%20Profit%20+7,983.md>)
+- Internal Link (Last Position May) : [2023-06-01 Tricky Executions Expiry Profit Realized +7,727](<2023-06-01%20Tricky%20Executions%20Expiry%20Profit%20Realized%20+7,727.md>)
+
