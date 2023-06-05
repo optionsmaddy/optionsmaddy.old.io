@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "23d540c53ee90566",
+        "id": "1a99aa347a9e0739",
         "type": "tabs",
         "children": [
           {
-            "id": "9477b835b403f0d7",
+            "id": "07c7fa67ecc5db40",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/post/2023-05-22 No risk taken Profit MTM +1,102.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -69,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 268.5
+    "width": 229.5
   },
   "right": {
     "id": "e9be7af07a4c541a",
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/post/2023-05-22 No risk taken Profit MTM +1,102.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/post/2023-05-22 No risk taken Profit MTM +1,102.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "content/post/2023-05-22 No risk taken Profit MTM +1,102.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -145,8 +137,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "9477b835b403f0d7",
+  "active": "07c7fa67ecc5db40",
   "lastOpenFiles": [
+    "content/post/2023-05-22 No risk taken Profit MTM +1,102.md",
     "content/post/2023-05-26 Up Move Pro Max MTM Profit +550.md",
     "content/post/2023-05-24 Good Day Closed All Positions Realized Profit +7,983.md",
     "content/post/2023-05-30 Held Losing Position MTM Loss -6,947.md",
@@ -160,7 +153,6 @@
     "content/post/2023-06-02 Good Decay & Held Naked Gaining Position Profit +3447.md",
     "layouts/_default/_markup/render-link.html",
     "content/post/2023-06-03 Comparison of different adjustment to my une 15th position.md",
-    "content/post/2023-05-22 No risk taken Profit MTM +1,102.md",
     "content/post/2023-05-17 Big Learning day - From +10K to -9K Loss MTM -6890.md",
     "content/post/2023-05-25 Lucky Profit & Accumulated NiftyBees Profit +7,301.md",
     "content/post/2023-05-23 Carried CE Buy Profit +683.md",
