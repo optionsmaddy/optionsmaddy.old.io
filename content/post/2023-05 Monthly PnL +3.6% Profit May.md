@@ -34,6 +34,6 @@ disableComments: false
 - External Link ( Zerodha Verified PnL ) :  https://console.zerodha.com/verified/8b6d3ab5
 - External Link ( Sensibull Verified PnL ) : https://web.sensibull.com/verified-pnl/oldfashioned-lime
 
-- Internal Link (Last Week May) : [2023-05-24 Good Day Closed All Positions Realized Profit +7,983](<2023-05-24%20Good%20Day%20Closed%20All%20Positions%20Realized%20Profit%20+7,983.md>)
-- Internal Link (Last Position May) : [2023-06-01 Tricky Executions Expiry Profit Realized +7,727](<2023-06-01%20Tricky%20Executions%20Expiry%20Profit%20Realized%20+7,727.md>)
+- Internal Link (Last Week May) : [2023-05-24 Good Day Closed All Positions Realized Profit +7,983](</2023-05-24%20Good%20Day%20Closed%20All%20Positions%20Realized%20Profit%20+7,983>)
+- Internal Link (Last Position May) : [2023-06-01 Tricky Executions Expiry Profit Realized +7,727](</2023-06-01%20Tricky%20Executions%20Expiry%20Profit%20Realized%20+7,727/>)
 
