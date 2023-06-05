@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/post/Test.md",
+                "file": "content/post/2023-06-05 No Change Held Position.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/post/Test.md",
+                "file": "content/post/2023-06-05 No Change Held Position.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/post/Test.md",
+                "file": "content/post/2023-06-05 No Change Held Position.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/post/Test.md"
+                "file": "content/post/2023-06-05 No Change Held Position.md"
               }
             }
           }
@@ -147,11 +147,13 @@
   },
   "active": "12d3db96ff8460e8",
   "lastOpenFiles": [
-    "content/post/2023-05 Monthly PnL +3.6% Profit May.md",
+    "content/post/2023-06-05 No Change Held Position.md",
+    "content/post/Testing Obsidian Plugin 1.md",
     "content/post/Test.md",
+    "content/post/2023-06-02 Good Decay & Held Naked Gaining Position Profit +3447.md",
+    "content/post/2023-05 Monthly PnL +3.6% Profit May.md",
     "layouts/_default/_markup/render-link.html",
     "content/post/2023-05-24 Good Day Closed All Positions Realized Profit +7,983.md",
-    "content/post/2023-06-02 Good Decay & Held Naked Gaining Position Profit +3447.md",
     "content/post/2023-06-03 Comparison of different adjustment to my une 15th position.md",
     "content/post/2023-05-22 No risk taken Profit MTM +1,102.md",
     "content/post/2023-05-30 Held Losing Position MTM Loss -6,947.md",
@@ -174,8 +176,6 @@
     "content/post/2023-05-18.md",
     "content/post/2023-05-16 Held position Profit +7960.md",
     "content/post/2023-05-12 Before Karnataka Election Result Hedged Profit +5230.md",
-    "content/post/2023-05-11 No Expiry Participation MTM Profit +3000.md",
-    "content/post/2023-05-10 Closed All Old Positions Profit Realized +11,800.md",
     "08-05 Monday 00.png"
   ]
 }

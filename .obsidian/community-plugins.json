@@ -7,7 +7,7 @@
   "text-extractor",
   "obsidian-imgur-plugin",
   "tag-wrangler",
-  "obsidian-git",
   "obsidian-languagetool-plugin",
-  "obsidian-custom-file-extensions-plugin"
+  "obsidian-custom-file-extensions-plugin",
+  "obsidian-git"
 ]
