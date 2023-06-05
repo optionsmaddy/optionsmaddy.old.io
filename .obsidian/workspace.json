@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 268.5
+    "width": 268.5,
+    "collapsed": true
   },
   "right": {
     "id": "e9be7af07a4c541a",
@@ -145,7 +146,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "9477b835b403f0d7",
+  "active": "942b940c11f8e834",
   "lastOpenFiles": [
     "content/unpublished/mds-options-trading-checklist.md",
     "Testing Obsidian Plugin 1.md",

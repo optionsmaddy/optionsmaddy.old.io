@@ -24,6 +24,9 @@ disableComments: false
 
 ![](https://i.imgur.com/Tz26M88.png)
 
+![](https://i.imgur.com/hxkPKyU.png)
+
+
 # Nifty Index Closing
 
 ![](https://i.imgur.com/yFsWqSO.png)
