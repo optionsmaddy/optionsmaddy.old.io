@@ -40,3 +40,5 @@ disableComments: false
 - Internal Link (Last Position May) : [2023-06-01 tricky executions expiry profit realized +7,727](</post/2023-06-01-tricky-executions-expiry-profit-realized-+7727>)
 
 [[2023-05-26 Up Move Pro Max MTM Profit +550]] - [2023-05-26 Up Move Pro Max MTM Profit +550](/post/2023-05-26-up-move-pro-max-mtm-profit-+550) 
+
+Render hook removed.
