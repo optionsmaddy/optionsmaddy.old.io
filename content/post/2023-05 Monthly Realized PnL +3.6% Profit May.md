@@ -34,11 +34,3 @@ disableComments: false
 - External Link ( Zerodha Verified PnL ) :  https://console.zerodha.com/verified/8b6d3ab5
 - External Link ( Sensibull Verified PnL ) : https://web.sensibull.com/verified-pnl/oldfashioned-lime
 
-###### Check
-
-- Internal Link (Last Week May) : [2023-05-24 Good Day Closed All Positions Realized Profit +7,983](</post/2023-05-24-good-day-closed-all-positions-realized-profit-+7983>)
-- Internal Link (Last Position May) : [2023-06-01 tricky executions expiry profit realized +7,727](</post/2023-06-01-tricky-executions-expiry-profit-realized-+7727>)
-
-[[2023-05-26 Up Move Pro Max MTM Profit +550]] - [2023-05-26 Up Move Pro Max MTM Profit +550](/post/2023-05-26-up-move-pro-max-mtm-profit-+550) 
-
-Render hook removed.

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1e778751332b5946",
+        "id": "fe6fe612385fd801",
         "type": "tabs",
         "children": [
           {
-            "id": "2ceaaccd7d314457",
+            "id": "de6de8d8d5a21aab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/post/2023-05 Monthly Realized PnL +3.6% Profit May.md",
+                "file": "content/post/2023-06-06 Flat Opening.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "byCreatedTime"
               }
             }
           },
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.5,
-    "collapsed": true
+    "width": 229.5
   },
   "right": {
     "id": "e9be7af07a4c541a",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/post/2023-05 Monthly Realized PnL +3.6% Profit May.md",
+                "file": "content/post/2023-06-06 Flat Opening.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/post/2023-05 Monthly Realized PnL +3.6% Profit May.md",
+                "file": "content/post/2023-06-06 Flat Opening.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/post/2023-05 Monthly Realized PnL +3.6% Profit May.md"
+                "file": "content/post/2023-06-06 Flat Opening.md"
               }
             }
           }
@@ -146,16 +145,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "2ceaaccd7d314457",
+  "active": "de6de8d8d5a21aab",
   "lastOpenFiles": [
-    "config.toml",
+    "content/post/2023-06-05 Held Position MTM Profit +4907.md",
+    "content/post/2023-06-06 Flat Opening.md",
     "content/post/2023-05 Monthly Realized PnL +3.6% Profit May.md",
+    "config.toml",
     "content/post/2023-05-22 No risk taken Profit MTM +1,102.md",
     "content/post/2023-05-26 Up Move Pro Max MTM Profit +550.md",
     "content/post/2023-05-24 Good Day Closed All Positions Realized Profit +7,983.md",
     "content/post/2023-05-30 Held Losing Position MTM Loss -6,947.md",
     "content/post/2023-05-29 Held Losing Position MTM Loss -4,092.md",
-    "content/post/2023-06-05 Held Position MTM Profit +4907.md",
     "content/unpublished/mds-options-trading-checklist.md",
     "Testing Obsidian Plugin 1.md",
     "content/post/Testing Obsidian Plugin 1.md",
