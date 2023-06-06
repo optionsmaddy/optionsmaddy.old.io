@@ -60,9 +60,10 @@ disableComments: false
 
 {{% notice info %}}
 - Premiums closed on all time Tuesday low.
-- Not a sellers arket.
-- Reference : 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">While everyone is focused on finnifty gamma, please note that nifty ATM closed 104rs, on Tuesday<br><br>Risk is tonight, tomorrow trading, tomorrow night and then expiry Thursday<br><br>Correct me if im wrong but this has to be the lowest ever Nifty ATM close on Tuesday in the past 4 years</p>&mdash; Bandi Shreyas (@BandiShreyas) <a href="https://twitter.com/BandiShreyas/status/1666024358844956672?ref_src=twsrc%5Etfw">June 6, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+- Not a sellers market.
+- Reference :  Shreyas Bandi Tweet
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">While everyone is focused on finnifty gamma, please note that nifty ATM closed 104rs, on Tuesday<br><br>Risk is tonight, tomorrow trading, tomorrow night and then expiry Thursday<br><br>Correct me if im wrong but this has to be the lowest ever Nifty ATM close on Tuesday in the past 4 years</p>&mdash; Bandi Shreyas (@BandiShreyas) <a href="https://twitter.com/BandiShreyas/status/1666024358844956672?ref_src=twsrc%5Etfw">June 6, 2023</a></blockquote> 
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 {{% /notice %}}
 
 
