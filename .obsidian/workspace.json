@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fe6fe612385fd801",
+        "id": "04a3b5c83530ae8e",
         "type": "tabs",
         "children": [
           {
-            "id": "de6de8d8d5a21aab",
+            "id": "839d43f28e68dcbd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/post/2023-06-06 Made A Diagonal Spread MTM Profit +7,508.md",
+                "file": "content/post/2023-06-07 Gap Up Opening.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/post/2023-06-06 Made A Diagonal Spread MTM Profit +7,508.md",
+                "file": "content/post/2023-06-07 Gap Up Opening.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/post/2023-06-06 Made A Diagonal Spread MTM Profit +7,508.md",
+                "file": "content/post/2023-06-07 Gap Up Opening.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/post/2023-06-06 Made A Diagonal Spread MTM Profit +7,508.md"
+                "file": "content/post/2023-06-07 Gap Up Opening.md"
               }
             }
           }
@@ -145,12 +145,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "de6de8d8d5a21aab",
+  "active": "839d43f28e68dcbd",
   "lastOpenFiles": [
-    "content/post/2023-06-05 Held Position MTM Profit +4907.md",
-    "content/post/2023-06-06 Made A Diagonal Spread MTM Profit +7,508.md",
-    "content/post/2023-05 Monthly Realized PnL +3.6% Profit May.md",
     "config.toml",
+    "content/post/2023-06-07 Gap Up Opening.md",
+    "content/post/2023-06-06 Made A Diagonal Spread MTM Profit +7,508.md",
+    "content/post/2023-06-05 Held Position MTM Profit +4907.md",
+    "content/post/2023-05 Monthly Realized PnL +3.6% Profit May.md",
     "content/post/2023-05-22 No risk taken Profit MTM +1,102.md",
     "content/post/2023-05-26 Up Move Pro Max MTM Profit +550.md",
     "content/post/2023-05-24 Good Day Closed All Positions Realized Profit +7,983.md",
@@ -173,8 +174,6 @@
     "content/post/().md",
     "obsidian-files/Templates/_Daily Trade Diary.md",
     "content/post/2023-05-28 01.md",
-    "content/post/2023-05-28 02 test.md",
-    "content/post/2023-05-28.md",
     "static/images/nifty_image_small.jpg",
     "08-05 Monday 00.png"
   ]

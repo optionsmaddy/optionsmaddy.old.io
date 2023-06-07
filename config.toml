@@ -113,11 +113,11 @@ pygmentsCodefencesGuessSyntax = true
   identifier = "tags"
   url = "/tags/"
 
-  [[menu.main]]
-  name = "Categories"
-  weight = 300
-  identifier = "categories"
-  url = "/categories/"
+  # [[menu.main]]
+  # name = "Categories"
+  # weight = 300
+  # identifier = "categories"
+  # url = "/categories/"
 
   #[[menu.main]]
   #name = "💥Portfolio"
