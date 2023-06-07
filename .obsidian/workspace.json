@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/post/2023-06-07 Gap Up Opening.md",
+                "file": "config.toml",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/post/2023-06-07 Gap Up Opening.md",
+                "file": "config.toml",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/post/2023-06-07 Gap Up Opening.md",
+                "file": "config.toml",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/post/2023-06-07 Gap Up Opening.md"
+                "file": "config.toml"
               }
             }
           }
@@ -147,8 +147,8 @@
   },
   "active": "839d43f28e68dcbd",
   "lastOpenFiles": [
-    "config.toml",
     "content/post/2023-06-07 Gap Up Opening.md",
+    "config.toml",
     "content/post/2023-06-06 Made A Diagonal Spread MTM Profit +7,508.md",
     "content/post/2023-06-05 Held Position MTM Profit +4907.md",
     "content/post/2023-05 Monthly Realized PnL +3.6% Profit May.md",

@@ -102,7 +102,7 @@ pygmentsCodefencesGuessSyntax = true
   url = "/"
 
   [[menu.main]]
-  name = "Post"
+  name = "📃Post"
   weight = 200
   identifier = "post"
   url = "/post/"
