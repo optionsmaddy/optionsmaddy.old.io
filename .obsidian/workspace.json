@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "04a3b5c83530ae8e",
+        "id": "55e02302ca67a8ae",
         "type": "tabs",
         "children": [
           {
-            "id": "839d43f28e68dcbd",
+            "id": "b91786660b5069a7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "config.toml",
+                "file": "content/post/2023-06-08 Nifty Expiry Trend Reversal In The Afternoon Profit +9405.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "config.toml",
+                "file": "content/post/2023-06-08 Nifty Expiry Trend Reversal In The Afternoon Profit +9405.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "config.toml",
+                "file": "content/post/2023-06-08 Nifty Expiry Trend Reversal In The Afternoon Profit +9405.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "config.toml"
+                "file": "content/post/2023-06-08 Nifty Expiry Trend Reversal In The Afternoon Profit +9405.md"
               }
             }
           }
@@ -145,10 +145,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "839d43f28e68dcbd",
+  "active": "b91786660b5069a7",
   "lastOpenFiles": [
-    "content/post/2023-06-07 Gap Up Opening.md",
+    "content/post/2023-06-08 Nifty Expiry Trend Reversal In The Afternoon Profit +9405.md",
+    "content/post/2023-06-07 Small Expiry Strangle Added Profit +6288.md",
     "config.toml",
+    "content/post/2023-06-07 Gap Up Opening.md",
     "content/post/2023-06-06 Made A Diagonal Spread MTM Profit +7,508.md",
     "content/post/2023-06-05 Held Position MTM Profit +4907.md",
     "content/post/2023-05 Monthly Realized PnL +3.6% Profit May.md",
@@ -173,7 +175,6 @@
     "content/post/2023-06-01 Tricky Executions Expiry Profit Realized +7,727.md",
     "content/post/().md",
     "obsidian-files/Templates/_Daily Trade Diary.md",
-    "content/post/2023-05-28 01.md",
     "static/images/nifty_image_small.jpg",
     "08-05 Monday 00.png"
   ]
