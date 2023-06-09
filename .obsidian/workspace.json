@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/post/2023-05 Monthly Realized PnL +3.6% Profit May.md",
+                "file": "content/post/2023-06-09 Intraday Went Wrong 4K Loss Profit +2400.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/post/2023-05 Monthly Realized PnL +3.6% Profit May.md",
+                "file": "content/post/2023-06-09 Intraday Went Wrong 4K Loss Profit +2400.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/post/2023-05 Monthly Realized PnL +3.6% Profit May.md",
+                "file": "content/post/2023-06-09 Intraday Went Wrong 4K Loss Profit +2400.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/post/2023-05 Monthly Realized PnL +3.6% Profit May.md"
+                "file": "content/post/2023-06-09 Intraday Went Wrong 4K Loss Profit +2400.md"
               }
             }
           }
@@ -147,8 +147,9 @@
   },
   "active": "b91786660b5069a7",
   "lastOpenFiles": [
-    "content/post/2023-06-07 Gap Up Opening.md",
     "content/post/2023-05 Monthly Realized PnL +3.6% Profit May.md",
+    "content/post/2023-06-09 Intraday Went Wrong 4K Loss Profit +2400.md",
+    "content/post/2023-06-07 Gap Up Opening.md",
     "content/post/2023-06-02 Good Decay & Held Naked Gaining Position Profit +3447.md",
     "content/post/2023-06-03 Comparison of different adjustment to my une 15th position.md",
     "content/post/2023-06-05 Held Position MTM Profit +4907.md",
@@ -174,7 +175,6 @@
     "content/post/2023-05-31 Held Gaining Position Profit +4625.md",
     "content/post/2023-06-01 Tricky Executions Expiry Profit Realized +7,727.md",
     "content/post/().md",
-    "obsidian-files/Templates/_Daily Trade Diary.md",
     "static/images/nifty_image_small.jpg",
     "08-05 Monday 00.png"
   ]
