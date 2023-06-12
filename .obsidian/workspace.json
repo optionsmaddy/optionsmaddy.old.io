@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "55e02302ca67a8ae",
+        "id": "94287f5074c68b92",
         "type": "tabs",
         "children": [
           {
-            "id": "b91786660b5069a7",
+            "id": "2252f0f8258843c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/post/2023-06-09 Intraday Went Wrong 4K Loss Profit +2400.md",
+                "file": "content/post/2023-06-12 Risk-averse in the Rangebound Market Profit +10,948.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/post/2023-06-09 Intraday Went Wrong 4K Loss Profit +2400.md",
+                "file": "content/post/2023-06-12 Risk-averse in the Rangebound Market Profit +10,948.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/post/2023-06-09 Intraday Went Wrong 4K Loss Profit +2400.md",
+                "file": "content/post/2023-06-12 Risk-averse in the Rangebound Market Profit +10,948.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/post/2023-06-09 Intraday Went Wrong 4K Loss Profit +2400.md"
+                "file": "content/post/2023-06-12 Risk-averse in the Rangebound Market Profit +10,948.md"
               }
             }
           }
@@ -145,10 +145,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b91786660b5069a7",
+  "active": "2252f0f8258843c9",
   "lastOpenFiles": [
-    "content/post/2023-05 Monthly Realized PnL +3.6% Profit May.md",
+    "content/post/2023-06-12 Risk-averse in the Rangebound Market Profit +10,948.md",
     "content/post/2023-06-09 Intraday Went Wrong 4K Loss Profit +2400.md",
+    "content/post/2023-05 Monthly Realized PnL +3.6% Profit May.md",
     "content/post/2023-06-07 Gap Up Opening.md",
     "content/post/2023-06-02 Good Decay & Held Naked Gaining Position Profit +3447.md",
     "content/post/2023-06-03 Comparison of different adjustment to my une 15th position.md",
@@ -174,7 +175,6 @@
     "content/post/2023-05-18 Super Lucky Escape Day Realized Profit +18,010.md",
     "content/post/2023-05-31 Held Gaining Position Profit +4625.md",
     "content/post/2023-06-01 Tricky Executions Expiry Profit Realized +7,727.md",
-    "content/post/().md",
     "static/images/nifty_image_small.jpg",
     "08-05 Monday 00.png"
   ]
