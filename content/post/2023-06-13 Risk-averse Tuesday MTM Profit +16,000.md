@@ -34,3 +34,4 @@ disableComments: false
 
 ![](https://i.imgur.com/hbIybZu.png)
 
+**Plan as per [Yesterday](https://optionsmaddy.github.io/post/2023-06-12-risk-averse-in-the-rangebound-market-profit-+10948/) Intact.
