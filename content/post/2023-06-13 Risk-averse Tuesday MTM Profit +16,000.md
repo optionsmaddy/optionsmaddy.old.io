@@ -32,7 +32,7 @@ disableComments: false
 
 # Verified PnL
 
-![](https://i.imgur.com/hbIybZu.png)
+![](https://i.imgur.com/hbIybZul.png)
 
 ### Plan
 
