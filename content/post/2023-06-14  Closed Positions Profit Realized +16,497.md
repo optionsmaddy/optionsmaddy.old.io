@@ -2,7 +2,7 @@
 author: maddy
 date: 2023-06-14T15:31:09+05:30
 lastmod: 2023-06-14T15:35:56+05:30
-title: 2023-06-14  Closed Positions Profit Realized +18,172
+title: 2023-06-14  Closed Positions Profit Realized +16,497
 thumbnail: ""
 description: 🧔MADDY's 💸P&L Statement for  2023-06-14T15:31:09 
 tags:
