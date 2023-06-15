@@ -56,4 +56,6 @@ disableComments: false
 
 ### Pay Off Diagram 🙂
 
-![](https://i.imgur.com/uL7YPzQ.png)
+- Double Diagonal turned to Iron Condor using the same hedges.
+
+![](https://i.imgur.com/Ns3dhXH.png)
