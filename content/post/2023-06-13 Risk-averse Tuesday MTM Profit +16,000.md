@@ -36,4 +36,4 @@ disableComments: false
 
 ### Plan
 
-**Plan as per [Yesterday](https://optionsmaddy.github.io/post/2023-06-12-risk-averse-in-the-rangebound-market-profit-+10948/) Intact.**
+**Plan as per [Yesterday](https://optionsmaddy.github.io/post/2023-06-12-risk-averse-in-the-rangebound-market-mtm-profit-+10948/) Intact.**
