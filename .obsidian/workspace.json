@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "282ecdb856e9ff98",
+        "id": "a261c4d4e207c565",
         "type": "tabs",
         "children": [
           {
-            "id": "b70a54bbed1731ab",
+            "id": "c8bb5cf8b72ad401",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/post/2023-06-14  Closed Positions Profit Realized +16,497.md",
+                "file": "content/post/2023-06-15 Good Beginning Live TradeLog Con't.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/post/2023-06-14  Closed Positions Profit Realized +16,497.md",
+                "file": "content/post/2023-06-15 Good Beginning Live TradeLog Con't.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/post/2023-06-14  Closed Positions Profit Realized +16,497.md",
+                "file": "content/post/2023-06-15 Good Beginning Live TradeLog Con't.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/post/2023-06-14  Closed Positions Profit Realized +16,497.md"
+                "file": "content/post/2023-06-15 Good Beginning Live TradeLog Con't.md"
               }
             }
           }
@@ -145,8 +145,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b70a54bbed1731ab",
+  "active": "c8bb5cf8b72ad401",
   "lastOpenFiles": [
+    "content/post/2023-06-15 Good Beginning Live TradeLog Con't.md",
     "content/post/2023-06-14  Closed Positions Profit Realized +16,497.md",
     "content/post/2023-06-12 Risk-averse in the Rangebound Market Profit +10,948.md",
     "content/post/2023-06-13 Risk-averse Tuesday MTM Profit +16,000.md",
@@ -174,7 +175,6 @@
     "content/post/2023-05-25 Lucky Profit & Accumulated NiftyBees Profit +7,301.md",
     "content/post/2023-05-23 Carried CE Buy Profit +683.md",
     "content/post/2023-05-19 Closed positions & took new strangle, Realized Profit +125.md",
-    "content/post/2023-05-18 Super Lucky Escape Day Realized Profit +18,010.md",
     "static/images/nifty_image_small.jpg",
     "08-05 Monday 00.png"
   ]
