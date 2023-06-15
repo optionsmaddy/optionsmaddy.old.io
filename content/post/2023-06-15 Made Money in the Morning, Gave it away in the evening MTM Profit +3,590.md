@@ -19,7 +19,7 @@ disableComments: false
 
 ### Lesson : Always put reliable targets for intraday
 
-- If you refer [Yesterday](https://optionsmaddy.github.io/) .
+- If you refer [Yesterday](https://optionsmaddy.github.io/post/2023-06-14-closed-positions-profit-realized-+16497/) .
 - Yesterday I bought 200qts - 18750 PE for **₹36.10**, today I sold it for **₹45.45**. 
 - I had put order to trigger at 49. But when I checked CPR, CPR was on **₹45.60**.
 - Hence, I shifted my buy target to **₹45.45** which resulted in a near perfect execution.🙂
@@ -54,3 +54,6 @@ disableComments: false
 - Only do trending intraday.
 {{% /notice %}}
 
+### Pay Off Diagram 🙂
+
+![](https://i.imgur.com/uL7YPzQ.png)
