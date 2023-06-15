@@ -2,7 +2,7 @@
 author: maddy
 date: 2023-06-08T15:08:23+05:30
 lastmod: 2023-06-08T15:43:14+05:30
-title: 2023-06-08 Nifty Expiry Trend Reversal In The Afternoon Profit +9405
+title: 2023-06-08 Nifty Expiry Trend Reversal In The Afternoon MTM Profit +9405
 thumbnail: ""
 description: 🧔MADDY's 💸P&L Statement for  2023-06-08T15:08:23 
 tags:

@@ -2,7 +2,7 @@
 author: maddy
 date: 2023-06-09T15:00:55+05:30
 lastmod: 2023-06-09T15:00:55+05:30
-title: 2023-06-09 Intraday Went Wrong 4K Loss Profit 2400
+title: 2023-06-09 Intraday Went Wrong 4K Loss MTM Profit 2400
 thumbnail: ""
 description: 🧔MADDY's 💸P&L Statement for  2023-06-09T15:00:55 
 tags:

@@ -48,11 +48,6 @@ disableComments: false
 
 ![](https://i.imgur.com/6aBP7YW.png)
 
-### Verified Pnl
-
-![](https://i.imgur.com/eyz2ihwl.png)
-
-
 {{% notice warning %}}
 ##### Note to Self
 - PUT SL.

@@ -2,7 +2,7 @@
 author: maddy
 date: 2023-06-12T15:38:36+05:30
 lastmod: 2023-06-12T15:38:36+05:30
-title: 2023-06-12 Risk-averse in the Rangebound Market Profit +10,948
+title: 2023-06-12 Risk-averse in the Rangebound Market MTM Profit +10,948
 thumbnail: ""
 description: 🧔MADDY's 💸P&L Statement for  2023-06-12T15:38:36 
 tags:
