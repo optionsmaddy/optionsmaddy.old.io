@@ -2,7 +2,7 @@
 author: maddy
 date: 2023-06-15T09:32:17+05:30
 lastmod: 2023-06-15T09:39:52+05:30
-title: 2023-06-15 Good Begining Live TradeLog Con't
+title: Made Money in the Morning, Gave it away in the evening MTM Profit +3,590
 thumbnail: ""
 description: 🧔MADDY's 💸P&L Statement for  2023-06-15T09:32:17 
 tags:
@@ -13,7 +13,9 @@ categories:
 draft: false
 disableComments: false
 ---
-# Good Beginning Con't
+# Breakeven Day. Gave the market 2K again intraday trade went wrong
+
+## Carried Position Gone Right
 
 ### Lesson : Always put reliable targets for intraday
 
@@ -30,4 +32,30 @@ disableComments: false
 {{% /notice %}}
 
 ![](https://i.imgur.com/ayUxHqO.png)
+
+
+## Positions
+
+![](https://i.imgur.com/24tCRCS.png)
+
+### Again same mistakes
+
+- Unnecessary buy on the evening after 2.
+- Cost Loss of -2K.
+- A good day turned average day.
+
+## Days History 🥲
+
+![](https://i.imgur.com/6aBP7YW.png)
+
+### Verified Pnl
+
+![](https://i.imgur.com/eyz2ihwl.png)
+
+
+{{% notice warning %}}
+##### Note to Self
+- PUT SL.
+- Only do trending intraday.
+{{% /notice %}}
 
