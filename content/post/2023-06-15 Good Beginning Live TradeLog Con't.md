@@ -18,15 +18,16 @@ disableComments: false
 ### Lesson : Always put reliable targets for intraday
 
 - If you refer [Yesterday](https://optionsmaddy.github.io/) .
-- Yesterday I bought 200 Qts - 18750 PE for **₹36.10**, today I sold it for **₹45.45**. 
+- Yesterday I bought 200qts - 18750 PE for **₹36.10**, today I sold it for **₹45.45**. 
 - I had put order to trigger at 49. But when I checked CPR, CPR was on **₹45.60**.
 - Hence, I shifted my buy target to **₹45.45** which resulted in a near perfect execution.🙂
-- Immediately after executing order it slumped towards **₹34**.
+- Immediately after executing order it slumped towards **₹23**.
+- A potential 4.5K Loss was evaded.
 
 {{% notice info %}}
 - Intraday Profit should be realized ASAP.
 - This especially applies to overnight buy positions.
 {{% /notice %}}
 
+![](https://i.imgur.com/ayUxHqO.png)
 
-![](https://i.imgur.com/nWC97e9.png)
