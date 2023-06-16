@@ -4,5 +4,6 @@
   "cssTheme": "Border",
   "interfaceFontFamily": "Readex Pro",
   "textFontFamily": "Readex Pro",
-  "monospaceFontFamily": "Cascadia Mono"
+  "monospaceFontFamily": "Cascadia Mono",
+  "baseFontSize": 17
 }
