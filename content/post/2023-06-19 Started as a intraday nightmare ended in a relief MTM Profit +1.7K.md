@@ -69,6 +69,6 @@ disableComments: false
 ![](https://i.imgur.com/Qe0Yvnr.png)
 
 {{% notice info %}}
-- No hedges as straddle is wide enough & I enough margin left in the account.
-- Tomorrow I will hedge & take margin benefit & take double the position.
+- No hedges in the positional straddle.
+- Tomorrow plan is to take full hedge & take double position with the margin benefit.
 {{% /notice %}}
