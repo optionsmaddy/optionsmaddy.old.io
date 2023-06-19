@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9c1b4427670d0f5f",
+        "id": "bebe383a0c431185",
         "type": "tabs",
         "children": [
           {
-            "id": "af96361ced401f4f",
+            "id": "627490e55cf761b4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/post/2023-06-16 Very Stressful Intraday MTM Loss -837.md",
+                "file": "content/post/2023-06-19 Started as a intraday nightmare ended in a relief MTM Profit +1.7K.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/post/2023-06-16 Very Stressful Intraday MTM Loss -837.md",
+                "file": "content/post/2023-06-19 Started as a intraday nightmare ended in a relief MTM Profit +1.7K.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/post/2023-06-16 Very Stressful Intraday MTM Loss -837.md",
+                "file": "content/post/2023-06-19 Started as a intraday nightmare ended in a relief MTM Profit +1.7K.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/post/2023-06-16 Very Stressful Intraday MTM Loss -837.md"
+                "file": "content/post/2023-06-19 Started as a intraday nightmare ended in a relief MTM Profit +1.7K.md"
               }
             }
           }
@@ -147,8 +147,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "af96361ced401f4f",
+  "active": "627490e55cf761b4",
   "lastOpenFiles": [
+    "content/post/2023-06-19 Started as a intraday nightmare ended in a relief MTM Profit +1.7K.md",
     "content/post/2023-06-16 Very Stressful Intraday MTM Loss -837.md",
     "content/post/2023-06-14  Closed Positions Profit Realized +16,497.md",
     "content/post/2023-06-15 Made Money in the Morning, Gave it away in the evening MTM Profit +3,590.md",
@@ -176,7 +177,6 @@
     "layouts/_default/_markup/render-link.html",
     "content/post/2023-05-17 Big Learning day - From +10K to -9K Loss MTM -6890.md",
     "content/post/2023-05-25 Lucky Profit & Accumulated NiftyBees Profit +7,301.md",
-    "content/post/2023-05-23 Carried CE Buy Profit +683.md",
     "static/images/nifty_image_small.jpg",
     "08-05 Monday 00.png"
   ]
