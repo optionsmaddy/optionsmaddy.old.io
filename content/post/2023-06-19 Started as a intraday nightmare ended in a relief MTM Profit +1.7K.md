@@ -60,13 +60,12 @@ disableComments: false
 
 ### Positions
 
-![](https://i.imgur.com/SXD6vwd.png)
-
-( at 3:09 pm )
+![](https://i.imgur.com/ZoXQVBa.png)
 
 ### Days History
 
-![](https://i.imgur.com/Qe0Yvnr.png)
+![](https://i.imgur.com/kIGWqhu.png)
+
 
 {{% notice info %}}
 - No hedges in the positional straddle.

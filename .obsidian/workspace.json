@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "bebe383a0c431185",
+        "id": "e0478dc83dfc8f27",
         "type": "tabs",
         "children": [
           {
-            "id": "627490e55cf761b4",
+            "id": "6469281f2b00d44a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/post/2023-06-19 Started as a intraday nightmare ended in a relief MTM Profit +1.7K.md",
+                "file": "content/post/2023-06-20 Good Day Super Volatile Call Ladder MTM Profit +3,370.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.5,
-    "collapsed": true
+    "width": 229.5
   },
   "right": {
     "id": "e9be7af07a4c541a",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/post/2023-06-19 Started as a intraday nightmare ended in a relief MTM Profit +1.7K.md",
+                "file": "content/post/2023-06-20 Good Day Super Volatile Call Ladder MTM Profit +3,370.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/post/2023-06-19 Started as a intraday nightmare ended in a relief MTM Profit +1.7K.md",
+                "file": "content/post/2023-06-20 Good Day Super Volatile Call Ladder MTM Profit +3,370.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/post/2023-06-19 Started as a intraday nightmare ended in a relief MTM Profit +1.7K.md"
+                "file": "content/post/2023-06-20 Good Day Super Volatile Call Ladder MTM Profit +3,370.md"
               }
             }
           }
@@ -147,8 +146,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "627490e55cf761b4",
+  "active": "6469281f2b00d44a",
   "lastOpenFiles": [
+    "content/post/2023-06-20 Good Day Super Volatile Call Ladder MTM Profit +3,370.md",
     "content/post/2023-06-19 Started as a intraday nightmare ended in a relief MTM Profit +1.7K.md",
     "content/post/2023-06-16 Very Stressful Intraday MTM Loss -837.md",
     "content/post/2023-06-14  Closed Positions Profit Realized +16,497.md",
@@ -176,7 +176,6 @@
     "content/post/Test.md",
     "layouts/_default/_markup/render-link.html",
     "content/post/2023-05-17 Big Learning day - From +10K to -9K Loss MTM -6890.md",
-    "content/post/2023-05-25 Lucky Profit & Accumulated NiftyBees Profit +7,301.md",
     "static/images/nifty_image_small.jpg",
     "08-05 Monday 00.png"
   ]
