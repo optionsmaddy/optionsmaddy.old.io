@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5a9d9fd40e78f7ea",
+        "id": "1f4ea7eea297a8c3",
         "type": "tabs",
         "children": [
           {
-            "id": "be8bf2541577c95f",
+            "id": "db2066ded372163d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/post/2024-02-02 +32,720 Profit Realized on crazy volatile day.md",
+                "file": "config.toml",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/post/2024-02-02 +32,720 Profit Realized on crazy volatile day.md",
+                "file": "config.toml",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/post/2024-02-02 +32,720 Profit Realized on crazy volatile day.md",
+                "file": "config.toml",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/post/2024-02-02 +32,720 Profit Realized on crazy volatile day.md"
+                "file": "config.toml"
               }
             }
           }
@@ -146,15 +146,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "be8bf2541577c95f",
+  "active": "db2066ded372163d",
   "lastOpenFiles": [
+    "content/post/2024-02-02 +32,720 Profit Realized on crazy volatile day.md",
     "config.toml",
     "static/images/logo2.png",
     "content/post/2023-06-26 Sideways market MTM Profit +3821.md",
     "static/images/nifty_image_small.jpg",
     "static/images/profilepic.jpg",
     "static/images/logodark.png",
-    "content/post/2024-02-02 +32,720 Profit Realized on crazy volatile day.md",
     "content/post/2023-06-23 Closed Monthly Short Took July Straddle MTM Profit +1,810.md",
     "content/post/2023-06-22 Excellent Intraday on a Wild Expiry Profit +10,583.md",
     "content/post/2023-06-21 Excellent Intraday Captured 25pts MTM Profit 8,263.md",

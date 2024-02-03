@@ -2,14 +2,14 @@
 author: maddy
 date: 2024-02-03T22:32:49+05:30
 lastmod: 2024-02-03T22:36:10+05:30
-title: 2024-02-02 +32,720 Profit Realizedon crazy volatile day
-thumbnail: ""
-description: 🧔MADDY's 💸P&L Statement for  2024-02-03T22:32:49 
+title: 2024-02-02 +32,720 Profit Realized on crazy volatile day
+thumbnail: 
+description: 🧔MADDY's 💸P&L Statement for  2024-02-03T22:32:49
 tags:
-- Trade-Diary📗
-- 🧔MADDY
-categories: 
-- 💸P&L
+  - Trade-Diary📗
+  - 🧔MADDY
+categories:
+  - 💸P&L
 draft: false
 disableComments: false
 ---
