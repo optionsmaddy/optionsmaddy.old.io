@@ -36,4 +36,4 @@ disableComments: false
 - Will take positions at least 12DTE.
 - Better safe than sorry.
 - Also looking for another broker.
-- I think Dhan is doing well. No offer for men though. WOmen have 50% brokerage off 😤.
+- I think Dhan Trading is doing well. No offer for men though. WOmen have 50% brokerage off 😤.
