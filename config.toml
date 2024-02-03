@@ -43,7 +43,7 @@ contactFormAction = "https://formspree.io/f/xyyabgnb"
 
 #fullPostContent = true
 #hidesidebar = true
-#displayMode = "dark"
+#displayMode = "light"
 
 [[params.socialIcons]]
 icon = "fab fa-twitter"
