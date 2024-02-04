@@ -2,7 +2,7 @@ baseURL = 'https://optionsmaddy.github.io/'
 languageCode = 'en-us'
 title = 'OptionsMaddy'
 
-disqusShortname = 'optionsmaddy'
+disqusShortname = 'https-optionsmaddy-github-io'
 googleFonts = ["Readex+Pro"]
 
 # [params.utterances]
@@ -18,7 +18,7 @@ description = """ ⚖️ Trading Options 🤹
 Motto : Consistency, Patience & Discipline.
 Here, I Share My Trading Notes📔 & PNL📊.
 """
-profilePicture = "images/logodark.png"
+profilePicture = "images/logolight.jpg"
 mainSections = ["post"]
 
 gtagId = "G-4B0KQ8RWDQ"
