@@ -18,7 +18,7 @@ description = """ ⚖️ Trading Options 🤹
 Motto : Consistency, Patience & Discipline.
 Here, I Share My Trading Notes📔 & PNL📊.
 """
-profilePicture = "images/logolight.jpg"
+profilePicture = "images/logodark.png"
 mainSections = ["post"]
 
 gtagId = "G-4B0KQ8RWDQ"
